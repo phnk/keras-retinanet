@@ -18,14 +18,19 @@ import time
 import tensorflow as tf
 
 
+
+# Running directly from the repository:
+# keras_retinanet/bin/convert_model.py /path/to/training/model.h5 /path/to/save/inference/model.h5
 if __name__ == "__main__":
     BACKBONE_NAME = "resnet50"
     THRESHOLD = 0.45
-    TEST_VIDEO = ["data/test/volvo_vid.avi"]
+    TEST_VIDEO = ["/home/carbor/code/keras-retinanet/data/test/indoor_test_1.MP4", "/home/carbor/code/keras-retinanet/data/test/indoor_test_2.MP4", "/home/carbor/code/keras-retinanet/data/test/volvo_test.avi"]
+    #TEST_VIDEO = ["/home/carbor/code/keras-retinanet/data/test/indoor_test_1.MP4"]
+
 
     gpu = 0
     setup_gpu(gpu)
-    model_path = os.path.join(".", "snapshots", "whatever_the_weight_file_is.h5")
+    model_path = os.path.join(".", "resnet50_csv_50_inference.h5")
 
     model = models.load_model(model_path, backbone_name=BACKBONE_NAME)
 
@@ -35,10 +40,14 @@ if __name__ == "__main__":
 
     # load video
     for video in TEST_VIDEO:
-        output_path = video.replace("data/test/", "output/")
+        output_path = video.replace("data/test/", "output/").replace("avi", "mp4")
+
+        codec = cv2.VideoWriter_fourcc("M", "J", "P", "G")
+        out_size = (1920, 1080)
 
         cap = cv2.VideoCapture(video)
-        out = cv2.VideoWriter(output_path, -1, 20.0, (1920, 1080))
+
+        imgs = []
 
         if cap.isOpened() == False:
             print("Error cant open file {}".format(video))
@@ -47,9 +56,7 @@ if __name__ == "__main__":
             ret, frame = cap.read()
 
             if ret == True:
-                #frame should be bgr format because its opencv
                 draw = frame.copy()
-                draw = cv2.cvtColor(draw, cv2.COLOR_BGR2RBG)
                 
                 image = preprocess_image(frame)
                 image, scale = resize_image(image)
@@ -69,12 +76,19 @@ if __name__ == "__main__":
                     draw_box(draw, b, color=color)
                     caption = "{} {:.3f}".format(labels_to_names[label], score)
                     draw_caption(draw, b, caption)
-                    # save img in output video
-                    out.write(draw)
+
+                imgs.append(draw)
+
             else:
                 print("Done with video {}".format(video))
-            
-        out.release()
-            
+                break
+
+        out = cv2.VideoWriter(output_path, codec, 30, out_size)
+
+        print("amount of frames {}".format(len(imgs)))
+        for im in imgs:
+            res = cv2.resize(im, out_size)
+            out.write(res)
+
+        out.release()   
         cap.release()
-        cv2.destroyAllWindows()
