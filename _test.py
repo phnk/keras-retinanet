@@ -33,6 +33,12 @@ def evaluate(
 
 if __name__ == "__main__":
     # create a CSVGenerator with the correct arguments (https://github.com/fizyr/keras-retinanet#csv-datasets)
+    test_csv = "test.csv"
+    class_csv = "classes.csv"
+
+    generator = CSVGenerator(test_csv, class_csv)
+
+    
     # create a model to evaluate + load the model
     # run evaluate
     # save results
