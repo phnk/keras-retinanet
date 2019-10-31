@@ -1,1210 +1,1210 @@
-data/full dataset/train/images/image60.png,614,693,757,830,wheel
-data/full dataset/train/images/image60.png,954,695,1092,834,wheel
-data/full dataset/train/images/image60.png,1092,694,1232,828,wheel
-data/full dataset/train/images/image60.png,621,556,764,670,cab
-data/full dataset/train/images/image60.png,812,551,1284,690,tipping body
-data/full dataset/train/images/image1.png,297,650,372,743,wheel
-data/full dataset/train/images/image1.png,359,636,423,725,wheel
-data/full dataset/train/images/image1.png,453,614,491,683,wheel
-data/full dataset/train/images/image1.png,157,403,376,693,tipping body
-data/full dataset/train/images/image1.png,386,536,448,606,cab
-data/full dataset/train/images/image133.png,416,704,1482,941,tipping body
-data/full dataset/train/images/image133.png,153,608,411,846,cab
-data/full dataset/train/images/image133.png,94,878,319,1080,wheel
-data/full dataset/train/images/image104.png,976,631,1122,768,cab
-data/full dataset/train/images/image104.png,999,789,1148,936,wheel
-data/full dataset/train/images/image104.png,1342,765,1471,904,wheel
-data/full dataset/train/images/image104.png,1462,759,1581,886,wheel
-data/full dataset/train/images/image104.png,1298,414,1631,795,tipping body
-data/full dataset/train/images/image83.png,502,671,822,936,cab
-data/full dataset/train/images/image83.png,24,881,191,1079,wheel
-data/full dataset/train/images/image83.png,1,651,522,886,tipping body
-data/full dataset/train/images/image71.png,418,591,1429,896,tipping body
-data/full dataset/train/images/image71.png,697,918,986,1080,wheel
-data/full dataset/train/images/image71.png,992,916,1301,1080,wheel
-data/full dataset/train/images/image71.png,136,851,347,1078,wheel
-data/full dataset/train/images/image71.png,197,600,423,825,cab
-data/full dataset/train/images/image320.png,757,736,921,884,cab
-data/full dataset/train/images/image320.png,993,730,1548,880,tipping body
-data/full dataset/train/images/image320.png,1354,891,1497,1026,wheel
-data/full dataset/train/images/image320.png,1253,901,1343,1007,wheel
-data/full dataset/train/images/image14.png,1132,684,1239,821,wheel
-data/full dataset/train/images/image14.png,764,719,917,873,wheel
-data/full dataset/train/images/image14.png,604,729,758,888,wheel
-data/full dataset/train/images/image14.png,499,319,891,795,tipping body
-data/full dataset/train/images/image14.png,1062,561,1187,678,cab
-data/full dataset/train/images/image228.png,1182,613,1486,924,cab
-data/full dataset/train/images/image228.png,1143,948,1404,1080,wheel
-data/full dataset/train/images/image228.png,701,785,858,975,wheel
-data/full dataset/train/images/image228.png,631,755,736,920,wheel
-data/full dataset/train/images/image228.png,926,733,1052,823,wheel
-data/full dataset/train/images/image228.png,598,299,1006,776,tipping body
-data/full dataset/train/images/image308.png,732,383,803,440,cab
-data/full dataset/train/images/image308.png,734,452,796,508,wheel
-data/full dataset/train/images/image308.png,882,447,941,502,wheel
-data/full dataset/train/images/image308.png,943,456,1002,515,wheel
-data/full dataset/train/images/image308.png,818,381,1028,446,tipping body
-data/full dataset/train/images/image288.png,1298,632,1356,689,wheel
-data/full dataset/train/images/image288.png,1146,626,1206,689,wheel
-data/full dataset/train/images/image288.png,1081,626,1143,688,wheel
-data/full dataset/train/images/image288.png,1051,561,1273,626,tipping body
-data/full dataset/train/images/image288.png,1284,562,1355,623,cab
-data/full dataset/train/images/image120.png,851,543,1171,635,tipping body
-data/full dataset/train/images/image120.png,943,636,1037,734,wheel
-data/full dataset/train/images/image120.png,1037,639,1131,734,wheel
-data/full dataset/train/images/image120.png,723,634,821,724,wheel
-data/full dataset/train/images/image120.png,726,543,831,621,cab
-data/full dataset/train/images/image72.png,854,694,986,828,wheel
-data/full dataset/train/images/image72.png,989,696,1129,833,wheel
-data/full dataset/train/images/image72.png,1326,696,1457,830,wheel
-data/full dataset/train/images/image72.png,808,550,1263,691,tipping body
-data/full dataset/train/images/image72.png,1307,554,1452,683,cab
-data/full dataset/train/images/image216.png,883,679,965,747,cab
-data/full dataset/train/images/image216.png,867,756,939,828,wheel
-data/full dataset/train/images/image216.png,708,742,769,808,wheel
-data/full dataset/train/images/image216.png,652,737,711,807,wheel
-data/full dataset/train/images/image216.png,638,679,876,743,tipping body
-data/full dataset/train/images/image45.png,176,598,441,833,cab
-data/full dataset/train/images/image45.png,109,870,354,1080,wheel
-data/full dataset/train/images/image45.png,723,929,1026,1080,wheel
-data/full dataset/train/images/image45.png,1034,933,1349,1080,wheel
-data/full dataset/train/images/image45.png,416,591,1483,915,tipping body
-data/full dataset/train/images/image142.png,1338,599,1920,866,tipping body
-data/full dataset/train/images/image142.png,1673,870,1888,1080,wheel
-data/full dataset/train/images/image142.png,1079,971,1352,1080,wheel
-data/full dataset/train/images/image142.png,1001,599,1286,883,cab
-data/full dataset/train/images/image317.png,881,536,962,622,cab
-data/full dataset/train/images/image317.png,895,634,973,709,wheel
-data/full dataset/train/images/image317.png,1090,625,1159,694,wheel
-data/full dataset/train/images/image317.png,1164,637,1235,714,wheel
-data/full dataset/train/images/image317.png,990,541,1264,629,tipping body
-data/full dataset/train/images/image229.png,935,549,1108,594,tipping body
-data/full dataset/train/images/image229.png,1049,592,1094,633,wheel
-data/full dataset/train/images/image229.png,1005,596,1046,637,wheel
-data/full dataset/train/images/image229.png,921,599,959,646,wheel
-data/full dataset/train/images/image229.png,875,549,932,596,cab
-data/full dataset/train/images/image28.png,922,702,1011,817,wheel
-data/full dataset/train/images/image28.png,869,689,937,792,wheel
-data/full dataset/train/images/image28.png,795,662,843,741,wheel
-data/full dataset/train/images/image28.png,841,578,1162,692,tipping body
-data/full dataset/train/images/image28.png,1063,689,1142,793,wheel
-data/full dataset/train/images/image327.png,664,640,752,715,cab
-data/full dataset/train/images/image327.png,673,738,762,824,wheel
-data/full dataset/train/images/image327.png,893,725,972,808,wheel
-data/full dataset/train/images/image327.png,962,716,1024,794,wheel
-data/full dataset/train/images/image327.png,766,641,1043,726,tipping body
-data/full dataset/train/images/image32.png,779,609,1451,878,tipping body
-data/full dataset/train/images/image32.png,731,735,812,863,wheel
-data/full dataset/train/images/image32.png,1261,860,1368,999,wheel
-data/full dataset/train/images/image6.png,342,689,431,815,wheel
-data/full dataset/train/images/image6.png,1,760,156,932,wheel
-data/full dataset/train/images/image6.png,241,566,364,683,cab
-data/full dataset/train/images/image58.png,359,589,1368,904,tipping body
-data/full dataset/train/images/image58.png,88,855,292,1080,wheel
-data/full dataset/train/images/image58.png,152,598,374,814,cab
-data/full dataset/train/images/image223.png,1108,651,1166,708,wheel
-data/full dataset/train/images/image223.png,997,636,1046,685,wheel
-data/full dataset/train/images/image223.png,967,631,1003,682,wheel
-data/full dataset/train/images/image223.png,949,498,1088,646,tipping body
-data/full dataset/train/images/image223.png,1118,586,1196,646,cab
-data/full dataset/train/images/image303.png,1128,566,1332,768,cab
-data/full dataset/train/images/image303.png,1211,805,1376,1011,wheel
-data/full dataset/train/images/image303.png,341,868,519,1076,wheel
-data/full dataset/train/images/image303.png,221,578,1078,855,tipping body
-data/full dataset/train/images/image127.png,233,588,478,795,cab
-data/full dataset/train/images/image127.png,191,840,404,1070,wheel
-data/full dataset/train/images/image127.png,729,954,901,1080,wheel
-data/full dataset/train/images/image127.png,1133,974,1303,1080,wheel
-data/full dataset/train/images/image127.png,468,585,1288,705,tipping body
-data/full dataset/train/images/image325.png,777,691,832,745,wheel
-data/full dataset/train/images/image325.png,908,685,955,735,wheel
-data/full dataset/train/images/image325.png,949,683,989,729,wheel
-data/full dataset/train/images/image325.png,764,634,824,684,cab
-data/full dataset/train/images/image325.png,824,635,1001,684,tipping body
-data/full dataset/train/images/image272.png,1025,648,1054,685,wheel
-data/full dataset/train/images/image272.png,962,644,994,680,wheel
-data/full dataset/train/images/image272.png,940,643,966,678,wheel
-data/full dataset/train/images/image272.png,1035,609,1085,646,cab
-data/full dataset/train/images/image272.png,931,611,1032,642,tipping body
-data/full dataset/train/images/image210.png,441,276,1347,540,tipping body
-data/full dataset/train/images/image210.png,976,548,1227,730,wheel
-data/full dataset/train/images/image210.png,721,544,964,731,wheel
-data/full dataset/train/images/image210.png,201,560,409,769,wheel
-data/full dataset/train/images/image210.png,209,284,431,529,cab
-data/full dataset/train/images/image285.png,1097,620,1259,806,cab
-data/full dataset/train/images/image107.png,914,674,1194,925,cab
-data/full dataset/train/images/image107.png,1453,288,1920,903,tipping body
-data/full dataset/train/images/image107.png,1562,895,1765,1080,wheel
-data/full dataset/train/images/image107.png,1742,859,1889,1075,wheel
-data/full dataset/train/images/image324.png,801,663,846,709,wheel
-data/full dataset/train/images/image324.png,911,659,948,699,wheel
-data/full dataset/train/images/image324.png,945,658,979,698,wheel
-data/full dataset/train/images/image324.png,790,614,838,655,cab
-data/full dataset/train/images/image324.png,840,614,988,654,tipping body
-data/full dataset/train/images/image114.png,407,721,534,891,wheel
-data/full dataset/train/images/image114.png,609,809,787,975,wheel
-data/full dataset/train/images/image114.png,474,564,553,706,cab
-data/full dataset/train/images/image114.png,534,570,1246,874,tipping body
-data/full dataset/train/images/image122.png,512,581,1382,849,tipping body
-data/full dataset/train/images/image122.png,756,859,998,1080,wheel
-data/full dataset/train/images/image122.png,1021,865,1274,1080,wheel
-data/full dataset/train/images/image122.png,252,824,456,1041,wheel
-data/full dataset/train/images/image122.png,293,581,506,801,cab
-data/full dataset/train/images/image4.png,186,543,264,638,cab
-data/full dataset/train/images/image4.png,267,643,316,728,wheel
-data/full dataset/train/images/image4.png,94,679,192,788,wheel
-data/full dataset/train/images/image4.png,6,701,108,836,wheel
-data/full dataset/train/images/image4.png,1,371,153,690,tipping body
-data/full dataset/train/images/image219.png,844,664,1359,811,tipping body
-data/full dataset/train/images/image219.png,867,804,979,951,wheel
-data/full dataset/train/images/image219.png,971,818,1114,981,wheel
-data/full dataset/train/images/image219.png,1366,884,1571,1075,wheel
-data/full dataset/train/images/image219.png,1377,666,1593,855,cab
-data/full dataset/train/images/image99.png,736,751,863,888,wheel
-data/full dataset/train/images/image99.png,1082,763,1214,900,wheel
-data/full dataset/train/images/image99.png,1213,760,1354,901,wheel
-data/full dataset/train/images/image99.png,1086,409,1432,814,tipping body
-data/full dataset/train/images/image99.png,746,620,894,739,cab
-data/full dataset/train/images/image15.png,419,190,1063,958,tipping body
-data/full dataset/train/images/image15.png,591,864,840,1080,wheel
-data/full dataset/train/images/image15.png,853,848,1103,1080,wheel
-data/full dataset/train/images/image15.png,1433,775,1568,993,wheel
-data/full dataset/train/images/image15.png,1308,576,1504,759,cab
-data/full dataset/train/images/image51.png,183,591,461,859,cab
-data/full dataset/train/images/image51.png,124,864,362,1080,wheel
-data/full dataset/train/images/image51.png,426,590,1482,915,tipping body
-data/full dataset/train/images/image17.png,789,273,1273,845,tipping body
-data/full dataset/train/images/image17.png,911,780,1094,961,wheel
-data/full dataset/train/images/image17.png,1104,776,1291,964,wheel
-data/full dataset/train/images/image17.png,1578,751,1697,918,wheel
-data/full dataset/train/images/image17.png,1489,574,1644,729,cab
-data/full dataset/train/images/image37.png,527,604,1199,914,tipping body
-data/full dataset/train/images/image37.png,608,856,742,1046,wheel
-data/full dataset/train/images/image37.png,883,898,1089,1080,wheel
-data/full dataset/train/images/image37.png,1016,828,1158,1035,wheel
-data/full dataset/train/images/image37.png,1176,734,1266,880,wheel
-data/full dataset/train/images/image301.png,1139,535,1314,706,cab
-data/full dataset/train/images/image301.png,1191,726,1332,888,wheel
-data/full dataset/train/images/image301.png,726,756,914,904,wheel
-data/full dataset/train/images/image301.png,521,770,711,966,wheel
-data/full dataset/train/images/image301.png,428,540,1093,760,tipping body
-data/full dataset/train/images/image295.png,892,590,1087,785,cab
-data/full dataset/train/images/image295.png,976,819,1144,1009,wheel
-data/full dataset/train/images/image295.png,121,916,364,1080,wheel
-data/full dataset/train/images/image295.png,1,605,823,911,tipping body
-data/full dataset/train/images/image267.png,1138,586,1264,705,wheel
-data/full dataset/train/images/image267.png,843,548,948,663,wheel
-data/full dataset/train/images/image267.png,742,542,842,651,wheel
-data/full dataset/train/images/image267.png,1147,451,1283,566,cab
-data/full dataset/train/images/image267.png,711,438,1114,547,tipping body
-data/full dataset/train/images/image117.png,537,568,1253,868,tipping body
-data/full dataset/train/images/image117.png,766,869,990,1080,wheel
-data/full dataset/train/images/image117.png,608,806,789,1035,wheel
-data/full dataset/train/images/image117.png,1027,813,1167,986,wheel
-data/full dataset/train/images/image117.png,403,719,542,888,wheel
-data/full dataset/train/images/image276.png,1114,660,1162,715,wheel
-data/full dataset/train/images/image276.png,1019,652,1063,704,wheel
-data/full dataset/train/images/image276.png,986,650,1023,703,wheel
-data/full dataset/train/images/image276.png,1125,598,1199,656,cab
-data/full dataset/train/images/image276.png,975,601,1124,649,tipping body
-data/full dataset/train/images/image90.png,999,405,1348,831,tipping body
-data/full dataset/train/images/image90.png,1116,776,1254,921,wheel
-data/full dataset/train/images/image90.png,974,769,1111,905,wheel
-data/full dataset/train/images/image90.png,672,735,788,866,wheel
-data/full dataset/train/images/image90.png,693,618,847,735,cab
-data/full dataset/train/images/image305.png,1203,816,1364,999,wheel
-data/full dataset/train/images/image305.png,1162,560,1322,755,cab
-data/full dataset/train/images/image305.png,334,923,571,1080,wheel
-data/full dataset/train/images/image199.png,1017,664,1064,718,wheel
-data/full dataset/train/images/image199.png,1110,657,1161,710,wheel
-data/full dataset/train/images/image199.png,1156,653,1202,707,wheel
-data/full dataset/train/images/image199.png,965,607,1039,660,cab
-data/full dataset/train/images/image199.png,1035,607,1211,655,tipping body
-data/full dataset/train/images/image271.png,633,524,909,774,cab
-data/full dataset/train/images/image271.png,1,513,589,758,tipping body
-data/full dataset/train/images/image271.png,77,776,291,998,wheel
-data/full dataset/train/images/image271.png,1,754,99,973,wheel
-data/full dataset/train/images/image214.png,993,613,1055,661,cab
-data/full dataset/train/images/image214.png,985,665,1036,717,wheel
-data/full dataset/train/images/image214.png,865,659,910,706,wheel
-data/full dataset/train/images/image214.png,823,658,869,707,wheel
-data/full dataset/train/images/image214.png,812,614,984,667,tipping body
-data/full dataset/train/images/image279.png,932,752,1058,883,wheel
-data/full dataset/train/images/image279.png,724,717,816,827,wheel
-data/full dataset/train/images/image279.png,664,710,734,820,wheel
-data/full dataset/train/images/image279.png,973,593,1136,732,cab
-data/full dataset/train/images/image279.png,643,599,971,717,tipping body
-data/full dataset/train/images/image312.png,959,563,1096,700,wheel
-data/full dataset/train/images/image312.png,1099,586,1244,730,wheel
-data/full dataset/train/images/image312.png,633,566,761,690,wheel
-data/full dataset/train/images/image312.png,811,408,1313,573,tipping body
-data/full dataset/train/images/image312.png,642,415,789,543,cab
-data/full dataset/train/images/image265.png,895,530,959,594,wheel
-data/full dataset/train/images/image265.png,956,527,1028,596,wheel
-data/full dataset/train/images/image265.png,1144,532,1218,605,wheel
-data/full dataset/train/images/image265.png,869,449,1127,530,tipping body
-data/full dataset/train/images/image265.png,1140,451,1226,521,cab
-data/full dataset/train/images/image224.png,1102,581,1171,653,wheel
-data/full dataset/train/images/image224.png,963,565,1020,625,wheel
-data/full dataset/train/images/image224.png,926,560,972,619,wheel
-data/full dataset/train/images/image224.png,907,392,1070,576,tipping body
-data/full dataset/train/images/image224.png,1112,502,1206,573,cab
-data/full dataset/train/images/image145.png,1684,871,1897,1080,wheel
-data/full dataset/train/images/image145.png,1338,598,1920,860,tipping body
-data/full dataset/train/images/image145.png,996,601,1282,859,cab
-data/full dataset/train/images/image55.png,526,561,681,683,cab
-data/full dataset/train/images/image55.png,509,696,653,834,wheel
-data/full dataset/train/images/image55.png,851,709,992,849,wheel
-data/full dataset/train/images/image55.png,1001,709,1141,854,wheel
-data/full dataset/train/images/image55.png,709,555,1204,700,tipping body
-data/full dataset/train/images/image46.png,547,559,687,675,cab
-data/full dataset/train/images/image46.png,529,690,669,826,wheel
-data/full dataset/train/images/image46.png,864,699,999,836,wheel
-data/full dataset/train/images/image46.png,1004,698,1143,836,wheel
-data/full dataset/train/images/image46.png,724,549,1198,689,tipping body
-data/full dataset/train/images/image240.png,281,599,577,899,cab
-data/full dataset/train/images/image240.png,452,970,706,1080,wheel
-data/full dataset/train/images/image240.png,1222,866,1406,1018,wheel
-data/full dataset/train/images/image296.png,159,571,966,861,tipping body
-data/full dataset/train/images/image296.png,277,865,519,1078,wheel
-data/full dataset/train/images/image296.png,527,839,738,1029,wheel
-data/full dataset/train/images/image296.png,1112,778,1262,931,wheel
-data/full dataset/train/images/image296.png,1019,550,1219,744,cab
-data/full dataset/train/images/image230.png,872,549,929,592,cab
-data/full dataset/train/images/image230.png,918,598,957,646,wheel
-data/full dataset/train/images/image230.png,1004,594,1048,638,wheel
-data/full dataset/train/images/image230.png,1048,591,1094,634,wheel
-data/full dataset/train/images/image230.png,936,546,1108,591,tipping body
-data/full dataset/train/images/image87.png,567,656,848,931,cab
-data/full dataset/train/images/image87.png,478,945,701,1080,wheel
-data/full dataset/train/images/image87.png,99,858,262,1068,wheel
-data/full dataset/train/images/image87.png,3,821,121,1025,wheel
-data/full dataset/train/images/image87.png,1,649,573,864,tipping body
-data/full dataset/train/images/image26.png,1574,765,1708,958,wheel
-data/full dataset/train/images/image26.png,1494,575,1646,751,cab
-data/full dataset/train/images/image26.png,1002,225,1234,459,tipping body
-data/full dataset/train/images/image21.png,672,221,1238,889,tipping body
-data/full dataset/train/images/image21.png,816,808,1038,973,wheel
-data/full dataset/train/images/image21.png,1046,805,1269,980,wheel
-data/full dataset/train/images/image21.png,1574,759,1708,965,wheel
-data/full dataset/train/images/image21.png,1462,573,1647,754,cab
-data/full dataset/train/images/image124.png,464,590,1429,874,tipping body
-data/full dataset/train/images/image124.png,727,894,1000,1080,wheel
-data/full dataset/train/images/image124.png,1023,905,1297,1045,wheel
-data/full dataset/train/images/image124.png,193,841,412,1074,wheel
-data/full dataset/train/images/image124.png,244,590,461,821,cab
-data/full dataset/train/images/image298.png,498,579,1002,751,tipping body
-data/full dataset/train/images/image298.png,572,754,717,898,wheel
-data/full dataset/train/images/image298.png,721,740,867,885,wheel
-data/full dataset/train/images/image298.png,1076,718,1188,844,wheel
-data/full dataset/train/images/image298.png,1018,571,1172,695,cab
-data/full dataset/train/images/image42.png,517,565,673,689,cab
-data/full dataset/train/images/image42.png,503,704,641,853,wheel
-data/full dataset/train/images/image42.png,856,716,1003,868,wheel
-data/full dataset/train/images/image42.png,1006,714,1154,865,wheel
-data/full dataset/train/images/image42.png,706,558,1217,713,tipping body
-data/full dataset/train/images/image102.png,473,665,758,895,cab
-data/full dataset/train/images/image102.png,426,938,643,1080,wheel
-data/full dataset/train/images/image102.png,1096,965,1360,1080,wheel
-data/full dataset/train/images/image102.png,1368,948,1633,1080,wheel
-data/full dataset/train/images/image102.png,1102,235,1768,1029,tipping body
-data/full dataset/train/images/image29.png,796,658,842,738,wheel
-data/full dataset/train/images/image29.png,868,687,936,791,wheel
-data/full dataset/train/images/image29.png,924,703,1008,817,wheel
-data/full dataset/train/images/image29.png,840,580,1166,697,tipping body
-data/full dataset/train/images/image29.png,1066,695,1139,793,wheel
-data/full dataset/train/images/image306.png,1207,820,1367,1000,wheel
-data/full dataset/train/images/image306.png,336,913,588,1079,wheel
-data/full dataset/train/images/image306.png,1208,565,1323,733,cab
-data/full dataset/train/images/image77.png,561,578,1536,861,tipping body
-data/full dataset/train/images/image77.png,674,886,949,1080,wheel
-data/full dataset/train/images/image77.png,966,898,1242,1080,wheel
-data/full dataset/train/images/image77.png,1647,871,1836,1080,wheel
-data/full dataset/train/images/image77.png,1563,595,1784,843,cab
-data/full dataset/train/images/image238.png,678,591,1468,800,tipping body
-data/full dataset/train/images/image238.png,291,608,587,918,cab
-data/full dataset/train/images/image238.png,458,965,689,1080,wheel
-data/full dataset/train/images/image294.png,852,570,1019,725,cab
-data/full dataset/train/images/image294.png,908,761,1047,920,wheel
-data/full dataset/train/images/image294.png,442,808,632,994,wheel
-data/full dataset/train/images/image294.png,232,829,432,1034,wheel
-data/full dataset/train/images/image294.png,131,579,807,828,tipping body
-data/full dataset/train/images/image326.png,735,693,801,759,wheel
-data/full dataset/train/images/image326.png,900,683,957,745,wheel
-data/full dataset/train/images/image326.png,951,679,1001,741,wheel
-data/full dataset/train/images/image326.png,797,621,1015,679,tipping body
-data/full dataset/train/images/image326.png,724,622,793,683,cab
-data/full dataset/train/images/image96.png,653,750,772,875,wheel
-data/full dataset/train/images/image96.png,962,774,1099,926,wheel
-data/full dataset/train/images/image96.png,1107,785,1252,931,wheel
-data/full dataset/train/images/image96.png,984,406,1344,841,tipping body
-data/full dataset/train/images/image96.png,682,621,832,740,cab
-data/full dataset/train/images/image54.png,526,558,679,674,cab
-data/full dataset/train/images/image54.png,511,693,654,836,wheel
-data/full dataset/train/images/image54.png,849,709,994,855,wheel
-data/full dataset/train/images/image54.png,994,710,1141,853,wheel
-data/full dataset/train/images/image54.png,703,555,1198,701,tipping body
-data/full dataset/train/images/image291.png,1352,551,1448,636,cab
-data/full dataset/train/images/image291.png,1381,651,1451,726,wheel
-data/full dataset/train/images/image291.png,1158,651,1247,744,wheel
-data/full dataset/train/images/image291.png,1068,654,1157,746,wheel
-data/full dataset/train/images/image291.png,1021,554,1335,647,tipping body
-data/full dataset/train/images/image135.png,104,600,352,851,cab
-data/full dataset/train/images/image135.png,42,901,256,1080,wheel
-data/full dataset/train/images/image135.png,333,630,1536,969,tipping body
-data/full dataset/train/images/image220.png,663,706,1343,885,tipping body
-data/full dataset/train/images/image220.png,684,873,836,1061,wheel
-data/full dataset/train/images/image220.png,821,903,996,1076,wheel
-data/full dataset/train/images/image220.png,1391,713,1689,983,cab
-data/full dataset/train/images/image323.png,799,656,844,704,wheel
-data/full dataset/train/images/image323.png,911,655,948,696,wheel
-data/full dataset/train/images/image323.png,942,653,978,695,wheel
-data/full dataset/train/images/image323.png,786,609,839,653,cab
-data/full dataset/train/images/image323.png,836,609,989,652,tipping body
-data/full dataset/train/images/image34.png,1072,665,1134,755,wheel
-data/full dataset/train/images/image34.png,981,698,1051,813,wheel
-data/full dataset/train/images/image34.png,919,715,1011,846,wheel
-data/full dataset/train/images/image34.png,762,705,841,816,wheel
-data/full dataset/train/images/image34.png,739,581,1072,709,tipping body
-data/full dataset/train/images/image198.png,963,645,1019,686,cab
-data/full dataset/train/images/image198.png,1001,690,1041,735,wheel
-data/full dataset/train/images/image198.png,1080,689,1125,736,wheel
-data/full dataset/train/images/image198.png,1119,687,1159,733,wheel
-data/full dataset/train/images/image198.png,1017,643,1167,688,tipping body
-data/full dataset/train/images/image43.png,299,581,534,780,cab
-data/full dataset/train/images/image43.png,256,808,457,1040,wheel
-data/full dataset/train/images/image43.png,778,844,1017,1080,wheel
-data/full dataset/train/images/image43.png,1029,843,1276,1080,wheel
-data/full dataset/train/images/image43.png,532,579,1376,826,tipping body
-data/full dataset/train/images/image203.png,269,661,506,843,cab
-data/full dataset/train/images/image203.png,404,873,607,1073,wheel
-data/full dataset/train/images/image203.png,772,796,919,939,wheel
-data/full dataset/train/images/image203.png,892,771,1012,905,wheel
-data/full dataset/train/images/image203.png,513,651,1032,789,tipping body
-data/full dataset/train/images/image201.png,980,589,1097,681,cab
-data/full dataset/train/images/image201.png,1057,690,1139,778,wheel
-data/full dataset/train/images/image201.png,1207,671,1286,756,wheel
-data/full dataset/train/images/image201.png,1270,662,1338,743,wheel
-data/full dataset/train/images/image201.png,1089,587,1351,668,tipping body
-data/full dataset/train/images/image12.png,1301,685,1401,820,wheel
-data/full dataset/train/images/image12.png,931,715,1083,865,wheel
-data/full dataset/train/images/image12.png,779,721,931,875,wheel
-data/full dataset/train/images/image12.png,677,315,1061,779,tipping body
-data/full dataset/train/images/image12.png,1222,558,1354,669,cab
-data/full dataset/train/images/image76.png,558,585,1533,860,tipping body
-data/full dataset/train/images/image76.png,673,889,951,1080,wheel
-data/full dataset/train/images/image76.png,959,896,1240,1080,wheel
-data/full dataset/train/images/image76.png,1641,866,1838,1080,wheel
-data/full dataset/train/images/image76.png,1557,598,1796,816,cab
-data/full dataset/train/images/image39.png,722,553,1208,705,tipping body
-data/full dataset/train/images/image39.png,858,705,1006,849,wheel
-data/full dataset/train/images/image39.png,1003,706,1148,844,wheel
-data/full dataset/train/images/image39.png,526,691,667,836,wheel
-data/full dataset/train/images/image39.png,538,559,676,676,cab
-data/full dataset/train/images/image79.png,801,726,924,845,wheel
-data/full dataset/train/images/image79.png,564,721,666,820,wheel
-data/full dataset/train/images/image79.png,476,709,572,811,wheel
-data/full dataset/train/images/image79.png,823,618,956,721,cab
-data/full dataset/train/images/image79.png,448,618,809,724,tipping body
-data/full dataset/train/images/image86.png,676,633,893,831,cab
-data/full dataset/train/images/image86.png,618,840,806,1021,wheel
-data/full dataset/train/images/image86.png,283,799,434,970,wheel
-data/full dataset/train/images/image86.png,168,779,291,938,wheel
-data/full dataset/train/images/image86.png,132,634,672,789,tipping body
-data/full dataset/train/images/image24.png,1483,569,1643,748,cab
-data/full dataset/train/images/image24.png,782,224,1239,680,tipping body
-data/full dataset/train/images/image24.png,1589,758,1709,960,wheel
-data/full dataset/train/images/image0.png,297,648,376,745,wheel
-data/full dataset/train/images/image0.png,361,635,423,730,wheel
-data/full dataset/train/images/image0.png,453,608,491,688,wheel
-data/full dataset/train/images/image0.png,391,534,451,606,cab
-data/full dataset/train/images/image0.png,148,404,388,701,tipping body
-data/full dataset/train/images/image111.png,542,626,621,725,wheel
-data/full dataset/train/images/image111.png,706,655,797,764,wheel
-data/full dataset/train/images/image111.png,794,664,898,783,wheel
-data/full dataset/train/images/image111.png,911,644,984,745,wheel
-data/full dataset/train/images/image111.png,638,539,1022,651,tipping body
-data/full dataset/train/images/image111.png,576,538,647,624,cab
-data/full dataset/train/images/image225.png,1177,702,1271,798,wheel
-data/full dataset/train/images/image225.png,997,665,1067,745,wheel
-data/full dataset/train/images/image225.png,947,656,1004,729,wheel
-data/full dataset/train/images/image225.png,928,443,1143,676,tipping body
-data/full dataset/train/images/image225.png,1200,592,1317,694,cab
-data/full dataset/train/images/image25.png,1567,758,1707,955,wheel
-data/full dataset/train/images/image25.png,819,848,969,994,wheel
-data/full dataset/train/images/image25.png,922,224,1247,535,tipping body
-data/full dataset/train/images/image25.png,1476,570,1647,746,cab
-data/full dataset/train/images/image5.png,114,568,216,669,cab
-data/full dataset/train/images/image5.png,211,670,281,779,wheel
-data/full dataset/train/images/image5.png,1,723,97,872,wheel
-data/full dataset/train/images/image94.png,742,715,839,819,wheel
-data/full dataset/train/images/image94.png,1001,730,1112,846,wheel
-data/full dataset/train/images/image94.png,1114,739,1233,856,wheel
-data/full dataset/train/images/image94.png,762,604,884,710,cab
-data/full dataset/train/images/image94.png,1021,430,1303,786,tipping body
-data/full dataset/train/images/image92.png,322,648,578,903,cab
-data/full dataset/train/images/image92.png,248,886,430,1080,wheel
-data/full dataset/train/images/image92.png,832,175,1652,1080,tipping body
-data/full dataset/train/images/image266.png,1229,643,1317,734,wheel
-data/full dataset/train/images/image266.png,993,624,1080,712,wheel
-data/full dataset/train/images/image266.png,916,620,993,699,wheel
-data/full dataset/train/images/image266.png,1231,539,1328,628,cab
-data/full dataset/train/images/image266.png,886,534,1203,620,tipping body
-data/full dataset/train/images/image59.png,138,596,383,830,cab
-data/full dataset/train/images/image59.png,74,860,310,1080,wheel
-data/full dataset/train/images/image59.png,356,589,1371,914,tipping body
-data/full dataset/train/images/image274.png,1048,646,1083,685,wheel
-data/full dataset/train/images/image274.png,976,638,1013,676,wheel
-data/full dataset/train/images/image274.png,954,638,980,675,wheel
-data/full dataset/train/images/image274.png,945,602,1059,635,tipping body
-data/full dataset/train/images/image274.png,1057,600,1113,636,cab
-data/full dataset/train/images/image2.png,147,398,371,680,tipping body
-data/full dataset/train/images/image2.png,294,645,372,741,wheel
-data/full dataset/train/images/image2.png,357,636,423,725,wheel
-data/full dataset/train/images/image2.png,448,613,491,684,wheel
-data/full dataset/train/images/image2.png,388,538,449,606,cab
-data/full dataset/train/images/image139.png,993,575,1156,728,cab
-data/full dataset/train/images/image139.png,1021,751,1187,918,wheel
-data/full dataset/train/images/image139.png,1393,738,1533,893,wheel
-data/full dataset/train/images/image139.png,1534,730,1672,880,wheel
-data/full dataset/train/images/image139.png,1203,571,1721,728,tipping body
-data/full dataset/train/images/image226.png,1026,735,1171,871,wheel
-data/full dataset/train/images/image226.png,779,679,877,789,wheel
-data/full dataset/train/images/image226.png,723,669,793,766,wheel
-data/full dataset/train/images/image226.png,694,381,962,691,tipping body
-data/full dataset/train/images/image226.png,1053,571,1221,705,cab
-data/full dataset/train/images/image243.png,1259,914,1516,1080,wheel
-data/full dataset/train/images/image243.png,22,661,424,1080,cab
-data/full dataset/train/images/image50.png,282,584,531,800,cab
-data/full dataset/train/images/image50.png,239,806,453,1039,wheel
-data/full dataset/train/images/image50.png,801,845,994,925,wheel
-data/full dataset/train/images/image50.png,1058,848,1278,943,wheel
-data/full dataset/train/images/image50.png,522,578,1387,841,tipping body
-data/full dataset/train/images/image106.png,973,870,1188,1080,wheel
-data/full dataset/train/images/image106.png,1443,826,1601,1018,wheel
-data/full dataset/train/images/image106.png,1586,806,1728,989,wheel
-data/full dataset/train/images/image106.png,1372,355,1789,849,tipping body
-data/full dataset/train/images/image106.png,946,648,1147,856,cab
-data/full dataset/train/images/image148.png,1672,870,1889,1080,wheel
-data/full dataset/train/images/image148.png,1439,635,1920,872,tipping body
-data/full dataset/train/images/image321.png,813,726,983,891,cab
-data/full dataset/train/images/image321.png,1049,725,1604,889,tipping body
-data/full dataset/train/images/image321.png,1448,899,1549,1002,wheel
-data/full dataset/train/images/image49.png,396,568,607,743,cab
-data/full dataset/train/images/image49.png,368,760,553,945,wheel
-data/full dataset/train/images/image49.png,821,781,1014,914,wheel
-data/full dataset/train/images/image49.png,1019,778,1221,925,wheel
-data/full dataset/train/images/image49.png,622,566,1299,765,tipping body
-data/full dataset/train/images/image68.png,711,560,1214,714,tipping body
-data/full dataset/train/images/image68.png,858,716,999,869,wheel
-data/full dataset/train/images/image68.png,1002,718,1153,865,wheel
-data/full dataset/train/images/image68.png,514,695,652,844,wheel
-data/full dataset/train/images/image68.png,537,561,688,685,cab
-data/full dataset/train/images/image116.png,534,566,1247,863,tipping body
-data/full dataset/train/images/image116.png,778,861,992,1019,wheel
-data/full dataset/train/images/image116.png,607,808,779,1015,wheel
-data/full dataset/train/images/image116.png,408,716,524,885,wheel
-data/full dataset/train/images/image116.png,1026,811,1167,983,wheel
-data/full dataset/train/images/image116.png,471,566,559,693,cab
-data/full dataset/train/images/image7.png,662,736,777,899,wheel
-data/full dataset/train/images/image7.png,156,819,378,1039,wheel
-data/full dataset/train/images/image7.png,2,848,155,1080,wheel
-data/full dataset/train/images/image7.png,1,244,318,828,tipping body
-data/full dataset/train/images/image7.png,546,576,704,738,cab
-data/full dataset/train/images/image53.png,526,556,672,670,cab
-data/full dataset/train/images/image53.png,512,694,647,833,wheel
-data/full dataset/train/images/image53.png,849,710,991,851,wheel
-data/full dataset/train/images/image53.png,998,710,1139,853,wheel
-data/full dataset/train/images/image53.png,709,553,1202,708,tipping body
-data/full dataset/train/images/image10.png,1051,769,1182,960,wheel
-data/full dataset/train/images/image10.png,442,854,694,1079,wheel
-data/full dataset/train/images/image10.png,179,871,432,1080,wheel
-data/full dataset/train/images/image10.png,1,185,646,986,tipping body
-data/full dataset/train/images/image10.png,928,576,1099,749,cab
-data/full dataset/train/images/image310.png,1051,482,1127,563,wheel
-data/full dataset/train/images/image310.png,967,468,1044,540,wheel
-data/full dataset/train/images/image310.png,775,471,848,549,wheel
-data/full dataset/train/images/image310.png,775,381,864,456,cab
-data/full dataset/train/images/image310.png,885,380,1165,474,tipping body
-data/full dataset/train/images/image130.png,193,834,394,1075,wheel
-data/full dataset/train/images/image130.png,243,585,479,824,cab
-data/full dataset/train/images/image209.png,511,416,658,558,wheel
-data/full dataset/train/images/image209.png,862,419,1009,574,wheel
-data/full dataset/train/images/image209.png,1012,424,1167,574,wheel
-data/full dataset/train/images/image209.png,512,264,674,396,cab
-data/full dataset/train/images/image209.png,703,259,1237,416,tipping body
-data/full dataset/train/images/image231.png,896,570,964,625,cab
-data/full dataset/train/images/image231.png,951,628,993,685,wheel
-data/full dataset/train/images/image231.png,1049,624,1100,675,wheel
-data/full dataset/train/images/image231.png,1096,621,1150,671,wheel
-data/full dataset/train/images/image231.png,972,569,1169,623,tipping body
-data/full dataset/train/images/image63.png,409,581,628,776,cab
-data/full dataset/train/images/image63.png,383,799,592,1003,wheel
-data/full dataset/train/images/image63.png,899,803,1113,935,wheel
-data/full dataset/train/images/image63.png,1112,796,1329,950,wheel
-data/full dataset/train/images/image63.png,676,573,1407,790,tipping body
-data/full dataset/train/images/image115.png,534,571,1251,861,tipping body
-data/full dataset/train/images/image115.png,607,805,786,981,wheel
-data/full dataset/train/images/image115.png,411,716,526,884,wheel
-data/full dataset/train/images/image115.png,474,561,558,685,cab
-data/full dataset/train/images/image221.png,1034,593,1085,640,wheel
-data/full dataset/train/images/image221.png,939,584,979,627,wheel
-data/full dataset/train/images/image221.png,912,582,945,626,wheel
-data/full dataset/train/images/image221.png,1044,537,1113,583,cab
-data/full dataset/train/images/image221.png,893,462,1015,595,tipping body
-data/full dataset/train/images/image146.png,996,603,1301,779,cab
-data/full dataset/train/images/image146.png,1339,599,1920,867,tipping body
-data/full dataset/train/images/image146.png,1679,871,1894,1076,wheel
-data/full dataset/train/images/image316.png,939,499,1182,575,tipping body
-data/full dataset/train/images/image316.png,1091,589,1155,659,wheel
-data/full dataset/train/images/image316.png,1023,577,1088,639,wheel
-data/full dataset/train/images/image316.png,853,585,925,655,wheel
-data/full dataset/train/images/image316.png,842,501,915,569,cab
-data/full dataset/train/images/image78.png,1556,594,1793,825,cab
-data/full dataset/train/images/image78.png,564,584,1532,878,tipping body
-data/full dataset/train/images/image78.png,672,889,948,1080,wheel
-data/full dataset/train/images/image78.png,959,895,1241,1080,wheel
-data/full dataset/train/images/image78.png,1629,859,1838,1080,wheel
-data/full dataset/train/images/image289.png,1287,562,1356,620,cab
-data/full dataset/train/images/image289.png,1299,629,1359,691,wheel
-data/full dataset/train/images/image289.png,1147,627,1206,691,wheel
-data/full dataset/train/images/image289.png,1082,627,1142,689,wheel
-data/full dataset/train/images/image289.png,1050,562,1271,626,tipping body
-data/full dataset/train/images/image297.png,1149,590,1283,714,cab
-data/full dataset/train/images/image297.png,1189,745,1303,863,wheel
-data/full dataset/train/images/image297.png,843,755,987,905,wheel
-data/full dataset/train/images/image297.png,692,769,837,911,wheel
-data/full dataset/train/images/image297.png,629,598,1118,763,tipping body
-data/full dataset/train/images/image235.png,478,551,723,794,cab
-data/full dataset/train/images/image235.png,603,806,807,1019,wheel
-data/full dataset/train/images/image235.png,1009,763,1207,951,wheel
-data/full dataset/train/images/image235.png,1194,741,1361,920,wheel
-data/full dataset/train/images/image235.png,787,541,1417,760,tipping body
-data/full dataset/train/images/image140.png,1286,574,1919,788,tipping body
-data/full dataset/train/images/image140.png,1731,788,1902,996,wheel
-data/full dataset/train/images/image140.png,1556,800,1734,1020,wheel
-data/full dataset/train/images/image140.png,1034,850,1276,1069,wheel
-data/full dataset/train/images/image140.png,994,575,1237,803,cab
-data/full dataset/train/images/image8.png,736,579,907,771,cab
-data/full dataset/train/images/image8.png,844,778,988,981,wheel
-data/full dataset/train/images/image8.png,227,878,481,1080,wheel
-data/full dataset/train/images/image8.png,1,885,223,1080,wheel
-data/full dataset/train/images/image8.png,1,179,414,856,tipping body
-data/full dataset/train/images/image125.png,464,589,1429,871,tipping body
-data/full dataset/train/images/image125.png,191,849,407,1074,wheel
-data/full dataset/train/images/image125.png,238,591,453,818,cab
-data/full dataset/train/images/image239.png,443,964,702,1080,wheel
-data/full dataset/train/images/image239.png,286,615,581,896,cab
-data/full dataset/train/images/image239.png,681,589,1477,759,tipping body
-data/full dataset/train/images/image319.png,881,865,1022,981,wheel
-data/full dataset/train/images/image319.png,1224,848,1351,976,wheel
-data/full dataset/train/images/image319.png,1346,856,1466,996,wheel
-data/full dataset/train/images/image319.png,876,695,1009,816,cab
-data/full dataset/train/images/image319.png,1064,700,1516,840,tipping body
-data/full dataset/train/images/image283.png,971,619,1257,863,cab
-data/full dataset/train/images/image283.png,576,789,707,944,wheel
-data/full dataset/train/images/image283.png,508,769,602,920,wheel
-data/full dataset/train/images/image283.png,493,619,968,781,tipping body
-data/full dataset/train/images/image108.png,541,633,624,728,wheel
-data/full dataset/train/images/image108.png,701,659,794,765,wheel
-data/full dataset/train/images/image108.png,783,670,891,785,wheel
-data/full dataset/train/images/image108.png,898,650,973,745,wheel
-data/full dataset/train/images/image108.png,637,546,1004,655,tipping body
-data/full dataset/train/images/image108.png,569,543,643,620,cab
-data/full dataset/train/images/image293.png,904,565,1028,680,cab
-data/full dataset/train/images/image293.png,946,710,1048,826,wheel
-data/full dataset/train/images/image293.png,599,725,742,873,wheel
-data/full dataset/train/images/image293.png,452,736,594,884,wheel
-data/full dataset/train/images/image293.png,378,569,872,734,tipping body
-data/full dataset/train/images/image237.png,273,621,586,931,cab
-data/full dataset/train/images/image237.png,431,951,674,1080,wheel
-data/full dataset/train/images/image237.png,1217,809,1401,999,wheel
-data/full dataset/train/images/image237.png,672,586,1469,813,tipping body
-data/full dataset/train/images/image328.png,646,721,761,809,wheel
-data/full dataset/train/images/image328.png,972,700,1074,801,wheel
-data/full dataset/train/images/image328.png,1058,691,1147,794,wheel
-data/full dataset/train/images/image328.png,638,580,773,695,cab
-data/full dataset/train/images/image328.png,791,584,1173,699,tipping body
-data/full dataset/train/images/image242.png,207,646,543,996,cab
-data/full dataset/train/images/image242.png,1211,850,1432,1071,wheel
-data/full dataset/train/images/image233.png,870,551,970,646,cab
-data/full dataset/train/images/image233.png,948,655,1016,739,wheel
-data/full dataset/train/images/image233.png,1101,642,1185,727,wheel
-data/full dataset/train/images/image233.png,1182,634,1262,720,wheel
-data/full dataset/train/images/image233.png,982,549,1289,638,tipping body
-data/full dataset/train/images/image196.png,963,655,997,694,wheel
-data/full dataset/train/images/image196.png,1033,653,1069,692,wheel
-data/full dataset/train/images/image196.png,1067,650,1100,689,wheel
-data/full dataset/train/images/image196.png,926,615,975,652,cab
-data/full dataset/train/images/image196.png,971,614,1109,653,tipping body
-data/full dataset/train/images/image300.png,289,591,1112,876,tipping body
-data/full dataset/train/images/image300.png,402,875,637,1079,wheel
-data/full dataset/train/images/image300.png,1234,811,1403,1000,wheel
-data/full dataset/train/images/image300.png,1152,573,1364,784,cab
-data/full dataset/train/images/image33.png,1073,661,1134,751,wheel
-data/full dataset/train/images/image33.png,978,699,1052,810,wheel
-data/full dataset/train/images/image33.png,918,720,1012,845,wheel
-data/full dataset/train/images/image33.png,762,705,843,820,wheel
-data/full dataset/train/images/image33.png,738,579,1077,708,tipping body
-data/full dataset/train/images/image81.png,104,631,638,823,tipping body
-data/full dataset/train/images/image81.png,133,783,261,949,wheel
-data/full dataset/train/images/image81.png,251,805,403,981,wheel
-data/full dataset/train/images/image81.png,597,869,786,1056,wheel
-data/full dataset/train/images/image81.png,656,640,889,835,cab
-data/full dataset/train/images/image204.png,848,346,907,398,wheel
-data/full dataset/train/images/image204.png,985,337,1040,390,wheel
-data/full dataset/train/images/image204.png,1041,333,1096,387,wheel
-data/full dataset/train/images/image204.png,840,288,905,342,cab
-data/full dataset/train/images/image204.png,920,287,1116,330,tipping body
-data/full dataset/train/images/image129.png,228,586,474,799,cab
-data/full dataset/train/images/image129.png,187,845,408,1071,wheel
-data/full dataset/train/images/image40.png,718,554,1203,704,tipping body
-data/full dataset/train/images/image40.png,531,558,691,679,cab
-data/full dataset/train/images/image40.png,522,693,658,836,wheel
-data/full dataset/train/images/image40.png,861,706,1004,848,wheel
-data/full dataset/train/images/image40.png,1004,704,1146,850,wheel
-data/full dataset/train/images/image212.png,408,296,1391,581,tipping body
-data/full dataset/train/images/image212.png,182,599,389,808,wheel
-data/full dataset/train/images/image212.png,711,581,948,713,wheel
-data/full dataset/train/images/image212.png,1003,578,1259,686,wheel
-data/full dataset/train/images/image212.png,159,311,411,569,cab
-data/full dataset/train/images/image98.png,389,645,622,863,cab
-data/full dataset/train/images/image98.png,313,864,498,1074,wheel
-data/full dataset/train/images/image98.png,811,955,1089,1080,wheel
-data/full dataset/train/images/image98.png,1103,975,1381,1080,wheel
-data/full dataset/train/images/image98.png,862,220,1589,1080,tipping body
-data/full dataset/train/images/image270.png,1,506,591,751,tipping body
-data/full dataset/train/images/image270.png,1,749,102,965,wheel
-data/full dataset/train/images/image270.png,91,765,292,998,wheel
-data/full dataset/train/images/image270.png,626,521,909,781,cab
-data/full dataset/train/images/image85.png,806,619,942,743,cab
-data/full dataset/train/images/image85.png,776,739,904,869,wheel
-data/full dataset/train/images/image85.png,526,725,626,840,wheel
-data/full dataset/train/images/image85.png,428,718,528,826,wheel
-data/full dataset/train/images/image85.png,397,613,788,719,tipping body
-data/full dataset/train/images/image287.png,576,860,662,958,wheel
-data/full dataset/train/images/image287.png,519,855,576,920,wheel
-data/full dataset/train/images/image74.png,776,556,1291,708,tipping body
-data/full dataset/train/images/image74.png,833,716,978,868,wheel
-data/full dataset/train/images/image74.png,981,720,1136,873,wheel
-data/full dataset/train/images/image74.png,1343,709,1499,866,wheel
-data/full dataset/train/images/image74.png,1333,563,1478,693,cab
-data/full dataset/train/images/image208.png,797,266,1147,356,tipping body
-data/full dataset/train/images/image208.png,1008,360,1109,461,wheel
-data/full dataset/train/images/image208.png,907,364,1008,468,wheel
-data/full dataset/train/images/image208.png,663,368,768,466,wheel
-data/full dataset/train/images/image208.png,659,274,773,360,cab
-data/full dataset/train/images/image311.png,944,419,1338,545,tipping body
-data/full dataset/train/images/image311.png,1056,544,1167,648,wheel
-data/full dataset/train/images/image311.png,1164,565,1282,680,wheel
-data/full dataset/train/images/image311.png,794,551,896,651,wheel
-data/full dataset/train/images/image311.png,803,421,922,524,cab
-data/full dataset/train/images/image123.png,464,585,1424,883,tipping body
-data/full dataset/train/images/image123.png,727,894,1002,1080,wheel
-data/full dataset/train/images/image123.png,1021,900,1297,1080,wheel
-data/full dataset/train/images/image123.png,188,841,412,1074,wheel
-data/full dataset/train/images/image123.png,239,589,449,821,cab
-data/full dataset/train/images/image82.png,53,873,232,1078,wheel
-data/full dataset/train/images/image82.png,1,660,554,874,tipping body
-data/full dataset/train/images/image82.png,529,670,841,945,cab
-data/full dataset/train/images/image62.png,614,558,771,681,cab
-data/full dataset/train/images/image62.png,609,699,748,838,wheel
-data/full dataset/train/images/image62.png,953,701,1093,841,wheel
-data/full dataset/train/images/image62.png,1094,698,1234,836,wheel
-data/full dataset/train/images/image62.png,814,558,1283,696,tipping body
-data/full dataset/train/images/image302.png,237,584,1109,861,tipping body
-data/full dataset/train/images/image302.png,356,875,578,1080,wheel
-data/full dataset/train/images/image302.png,1223,820,1406,1015,wheel
-data/full dataset/train/images/image302.png,1149,579,1376,799,cab
-data/full dataset/train/images/image268.png,891,721,1058,880,wheel
-data/full dataset/train/images/image268.png,523,696,662,844,wheel
-data/full dataset/train/images/image268.png,404,691,524,823,wheel
-data/full dataset/train/images/image268.png,359,544,861,688,tipping body
-data/full dataset/train/images/image268.png,884,550,1074,691,cab
-data/full dataset/train/images/image286.png,571,853,669,964,wheel
-data/full dataset/train/images/image286.png,516,853,564,914,wheel
-data/full dataset/train/images/image329.png,639,674,862,843,cab
-data/full dataset/train/images/image329.png,897,666,1491,819,tipping body
-data/full dataset/train/images/image329.png,1348,824,1459,974,wheel
-data/full dataset/train/images/image236.png,668,590,1454,828,tipping body
-data/full dataset/train/images/image236.png,1188,813,1394,1021,wheel
-data/full dataset/train/images/image236.png,964,846,1207,988,wheel
-data/full dataset/train/images/image236.png,442,951,700,1080,wheel
-data/full dataset/train/images/image236.png,269,606,582,926,cab
-data/full dataset/train/images/image13.png,1191,688,1291,811,wheel
-data/full dataset/train/images/image13.png,821,715,972,861,wheel
-data/full dataset/train/images/image13.png,668,721,822,874,wheel
-data/full dataset/train/images/image13.png,571,319,949,786,tipping body
-data/full dataset/train/images/image13.png,1119,551,1247,673,cab
-data/full dataset/train/images/image147.png,1338,600,1920,861,tipping body
-data/full dataset/train/images/image147.png,1672,869,1907,1080,wheel
-data/full dataset/train/images/image147.png,1170,981,1357,1080,wheel
-data/full dataset/train/images/image48.png,547,555,694,673,cab
-data/full dataset/train/images/image48.png,533,690,664,828,wheel
-data/full dataset/train/images/image48.png,863,696,998,836,wheel
-data/full dataset/train/images/image48.png,1003,699,1143,838,wheel
-data/full dataset/train/images/image48.png,722,550,1202,689,tipping body
-data/full dataset/train/images/image113.png,532,576,1254,869,tipping body
-data/full dataset/train/images/image113.png,613,813,792,978,wheel
-data/full dataset/train/images/image113.png,408,719,534,894,wheel
-data/full dataset/train/images/image113.png,476,570,561,710,cab
-data/full dataset/train/images/image11.png,1157,559,1294,685,cab
-data/full dataset/train/images/image11.png,1244,708,1349,854,wheel
-data/full dataset/train/images/image11.png,827,745,997,916,wheel
-data/full dataset/train/images/image11.png,652,755,821,930,wheel
-data/full dataset/train/images/image11.png,528,293,963,823,tipping body
-data/full dataset/train/images/image121.png,891,695,1027,841,wheel
-data/full dataset/train/images/image121.png,1029,698,1172,843,wheel
-data/full dataset/train/images/image121.png,579,685,706,819,wheel
-data/full dataset/train/images/image121.png,587,554,722,668,cab
-data/full dataset/train/images/image121.png,754,551,1233,690,tipping body
-data/full dataset/train/images/image227.png,1196,646,1471,934,cab
-data/full dataset/train/images/image227.png,722,798,869,983,wheel
-data/full dataset/train/images/image227.png,647,770,754,934,wheel
-data/full dataset/train/images/image227.png,609,325,1007,791,tipping body
-data/full dataset/train/images/image227.png,932,756,1057,833,wheel
-data/full dataset/train/images/image227.png,1136,959,1386,1080,wheel
-data/full dataset/train/images/image215.png,743,615,944,666,tipping body
-data/full dataset/train/images/image215.png,754,665,806,720,wheel
-data/full dataset/train/images/image215.png,803,667,856,724,wheel
-data/full dataset/train/images/image215.png,938,676,997,740,wheel
-data/full dataset/train/images/image215.png,950,613,1020,672,cab
-data/full dataset/train/images/image75.png,702,849,954,1078,wheel
-data/full dataset/train/images/image75.png,966,855,1218,1079,wheel
-data/full dataset/train/images/image75.png,1574,834,1772,1060,wheel
-data/full dataset/train/images/image75.png,589,575,1482,838,tipping body
-data/full dataset/train/images/image75.png,1519,583,1743,813,cab
-data/full dataset/train/images/image144.png,999,601,1286,883,cab
-data/full dataset/train/images/image144.png,1338,596,1920,867,tipping body
-data/full dataset/train/images/image144.png,1691,870,1900,1080,wheel
-data/full dataset/train/images/image280.png,944,624,1208,849,cab
-data/full dataset/train/images/image280.png,874,890,1084,1080,wheel
-data/full dataset/train/images/image280.png,587,790,707,943,wheel
-data/full dataset/train/images/image280.png,521,773,602,926,wheel
-data/full dataset/train/images/image280.png,503,629,938,789,tipping body
-data/full dataset/train/images/image52.png,182,599,457,853,cab
-data/full dataset/train/images/image52.png,126,869,352,1080,wheel
-data/full dataset/train/images/image52.png,427,591,1488,925,tipping body
-data/full dataset/train/images/image136.png,1004,638,1101,738,wheel
-data/full dataset/train/images/image136.png,1234,636,1324,734,wheel
-data/full dataset/train/images/image136.png,1325,637,1419,731,wheel
-data/full dataset/train/images/image136.png,985,539,1088,621,cab
-data/full dataset/train/images/image136.png,1119,538,1452,632,tipping body
-data/full dataset/train/images/image322.png,847,953,1024,1080,wheel
-data/full dataset/train/images/image322.png,837,740,1011,910,cab
-data/full dataset/train/images/image322.png,1068,744,1622,924,tipping body
-data/full dataset/train/images/image304.png,1127,564,1318,778,cab
-data/full dataset/train/images/image304.png,1204,806,1368,993,wheel
-data/full dataset/train/images/image304.png,222,578,1076,829,tipping body
-data/full dataset/train/images/image97.png,441,636,656,858,cab
-data/full dataset/train/images/image97.png,376,848,533,1048,wheel
-data/full dataset/train/images/image97.png,833,916,1087,1080,wheel
-data/full dataset/train/images/image97.png,1101,935,1360,1080,wheel
-data/full dataset/train/images/image97.png,891,261,1532,1051,tipping body
-data/full dataset/train/images/image222.png,1036,593,1084,641,wheel
-data/full dataset/train/images/image222.png,939,585,981,627,wheel
-data/full dataset/train/images/image222.png,911,585,943,623,wheel
-data/full dataset/train/images/image222.png,1041,539,1114,585,cab
-data/full dataset/train/images/image222.png,895,460,1017,594,tipping body
-data/full dataset/train/images/image118.png,961,620,1038,703,wheel
-data/full dataset/train/images/image118.png,1044,624,1123,704,wheel
-data/full dataset/train/images/image118.png,766,610,848,696,wheel
-data/full dataset/train/images/image118.png,874,535,1157,621,tipping body
-data/full dataset/train/images/image118.png,763,536,858,606,cab
-data/full dataset/train/images/image299.png,183,585,1037,866,tipping body
-data/full dataset/train/images/image299.png,307,885,537,1075,wheel
-data/full dataset/train/images/image299.png,1167,813,1334,1008,wheel
-data/full dataset/train/images/image299.png,1083,575,1303,786,cab
-data/full dataset/train/images/image47.png,542,555,701,674,cab
-data/full dataset/train/images/image47.png,531,691,664,824,wheel
-data/full dataset/train/images/image47.png,867,698,998,836,wheel
-data/full dataset/train/images/image47.png,1004,700,1143,836,wheel
-data/full dataset/train/images/image47.png,727,550,1199,693,tipping body
-data/full dataset/train/images/image9.png,922,773,1076,971,wheel
-data/full dataset/train/images/image9.png,818,576,997,758,cab
-data/full dataset/train/images/image9.png,322,861,571,1080,wheel
-data/full dataset/train/images/image9.png,52,883,321,1080,wheel
-data/full dataset/train/images/image9.png,1,180,522,955,tipping body
-data/full dataset/train/images/image211.png,171,311,436,600,cab
-data/full dataset/train/images/image211.png,164,610,373,823,wheel
-data/full dataset/train/images/image211.png,708,588,956,763,wheel
-data/full dataset/train/images/image211.png,972,588,1252,745,wheel
-data/full dataset/train/images/image211.png,412,298,1387,571,tipping body
-data/full dataset/train/images/image89.png,1002,405,1348,840,tipping body
-data/full dataset/train/images/image89.png,1118,776,1256,916,wheel
-data/full dataset/train/images/image89.png,973,766,1113,908,wheel
-data/full dataset/train/images/image89.png,669,736,778,868,wheel
-data/full dataset/train/images/image89.png,687,618,841,734,cab
-data/full dataset/train/images/image234.png,818,595,1232,709,tipping body
-data/full dataset/train/images/image234.png,1091,704,1196,818,wheel
-data/full dataset/train/images/image234.png,979,718,1095,835,wheel
-data/full dataset/train/images/image234.png,754,741,860,864,wheel
-data/full dataset/train/images/image234.png,649,597,804,734,cab
-data/full dataset/train/images/image23.png,679,221,1238,890,tipping body
-data/full dataset/train/images/image23.png,1578,763,1713,956,cab
-data/full dataset/train/images/image23.png,1462,575,1646,741,cab
-data/full dataset/train/images/image93.png,327,646,577,898,cab
-data/full dataset/train/images/image93.png,247,890,404,1080,wheel
-data/full dataset/train/images/image93.png,842,171,1663,1080,tipping body
-data/full dataset/train/images/image205.png,854,349,907,400,wheel
-data/full dataset/train/images/image205.png,988,341,1042,393,wheel
-data/full dataset/train/images/image205.png,1043,336,1098,388,wheel
-data/full dataset/train/images/image205.png,845,291,907,339,cab
-data/full dataset/train/images/image205.png,926,290,1117,331,tipping body
-data/full dataset/train/images/image20.png,1467,570,1646,766,cab
-data/full dataset/train/images/image20.png,1571,758,1709,961,wheel
-data/full dataset/train/images/image20.png,1044,803,1268,1034,wheel
-data/full dataset/train/images/image20.png,822,810,1036,1030,wheel
-data/full dataset/train/images/image20.png,678,224,1237,894,tipping body
-data/full dataset/train/images/image67.png,594,548,731,655,cab
-data/full dataset/train/images/image67.png,581,674,699,796,wheel
-data/full dataset/train/images/image67.png,882,680,1004,808,wheel
-data/full dataset/train/images/image67.png,1006,684,1134,813,wheel
-data/full dataset/train/images/image67.png,754,548,1186,679,tipping body
-data/full dataset/train/images/image137.png,1121,538,1452,635,tipping body
-data/full dataset/train/images/image137.png,1328,636,1419,731,wheel
-data/full dataset/train/images/image137.png,1232,636,1324,731,wheel
-data/full dataset/train/images/image137.png,1003,636,1100,739,wheel
-data/full dataset/train/images/image137.png,983,537,1085,625,cab
-data/full dataset/train/images/image19.png,1459,570,1642,763,cab
-data/full dataset/train/images/image19.png,1571,769,1708,960,wheel
-data/full dataset/train/images/image19.png,1047,803,1262,1026,wheel
-data/full dataset/train/images/image19.png,816,805,1039,1026,wheel
-data/full dataset/train/images/image19.png,677,219,1241,888,tipping body
-data/full dataset/train/images/image35.png,681,583,1112,745,tipping body
-data/full dataset/train/images/image35.png,718,745,817,886,wheel
-data/full dataset/train/images/image35.png,913,766,1031,934,wheel
-data/full dataset/train/images/image35.png,997,736,1086,888,wheel
-data/full dataset/train/images/image35.png,1117,685,1181,801,wheel
-data/full dataset/train/images/image109.png,574,546,651,620,cab
-data/full dataset/train/images/image109.png,543,634,624,730,wheel
-data/full dataset/train/images/image109.png,702,659,792,764,wheel
-data/full dataset/train/images/image109.png,788,669,887,780,wheel
-data/full dataset/train/images/image109.png,892,648,972,743,wheel
-data/full dataset/train/images/image109.png,641,549,1009,655,tipping body
-data/full dataset/train/images/image30.png,798,659,848,741,wheel
-data/full dataset/train/images/image30.png,871,689,940,800,wheel
-data/full dataset/train/images/image30.png,928,703,1015,821,wheel
-data/full dataset/train/images/image30.png,844,576,1174,692,tipping body
-data/full dataset/train/images/image30.png,1062,693,1154,793,wheel
-data/full dataset/train/images/image105.png,1004,783,1148,939,wheel
-data/full dataset/train/images/image105.png,1347,768,1467,899,wheel
-data/full dataset/train/images/image105.png,1468,758,1578,885,wheel
-data/full dataset/train/images/image105.png,982,630,1119,761,cab
-data/full dataset/train/images/image105.png,1294,415,1637,791,tipping body
-data/full dataset/train/images/image313.png,642,406,788,539,cab
-data/full dataset/train/images/image313.png,637,558,766,684,wheel
-data/full dataset/train/images/image313.png,959,555,1108,688,wheel
-data/full dataset/train/images/image313.png,1103,580,1247,729,wheel
-data/full dataset/train/images/image313.png,817,400,1316,561,tipping body
-data/full dataset/train/images/image56.png,399,569,593,725,cab
-data/full dataset/train/images/image56.png,372,745,536,921,wheel
-data/full dataset/train/images/image56.png,789,764,968,915,wheel
-data/full dataset/train/images/image56.png,983,771,1166,920,wheel
-data/full dataset/train/images/image56.png,607,564,1243,758,tipping body
-data/full dataset/train/images/image307.png,935,438,991,494,wheel
-data/full dataset/train/images/image307.png,994,448,1051,508,wheel
-data/full dataset/train/images/image307.png,790,445,843,499,wheel
-data/full dataset/train/images/image307.png,786,376,850,436,cab
-data/full dataset/train/images/image307.png,871,372,1076,438,tipping body
-data/full dataset/train/images/image73.png,799,549,1267,693,tipping body
-data/full dataset/train/images/image73.png,853,695,988,834,wheel
-data/full dataset/train/images/image73.png,987,698,1132,830,wheel
-data/full dataset/train/images/image73.png,1328,698,1458,828,wheel
-data/full dataset/train/images/image73.png,1307,556,1454,684,cab
-data/full dataset/train/images/image65.png,136,898,376,1080,wheel
-data/full dataset/train/images/image65.png,192,604,486,894,cab
-data/full dataset/train/images/image65.png,492,591,1558,915,tipping body
-data/full dataset/train/images/image197.png,976,615,1108,654,tipping body
-data/full dataset/train/images/image197.png,1067,651,1101,687,wheel
-data/full dataset/train/images/image197.png,1032,653,1071,692,wheel
-data/full dataset/train/images/image197.png,962,655,997,697,wheel
-data/full dataset/train/images/image197.png,924,616,971,653,cab
-data/full dataset/train/images/image273.png,1024,646,1056,684,wheel
-data/full dataset/train/images/image273.png,961,645,995,678,wheel
-data/full dataset/train/images/image273.png,939,643,964,678,wheel
-data/full dataset/train/images/image273.png,1036,609,1083,642,cab
-data/full dataset/train/images/image273.png,931,610,1034,641,tipping body
-data/full dataset/train/images/image44.png,171,599,436,829,cab
-data/full dataset/train/images/image44.png,111,871,347,1080,wheel
-data/full dataset/train/images/image44.png,726,930,1028,1080,wheel
-data/full dataset/train/images/image44.png,1042,936,1348,1080,wheel
-data/full dataset/train/images/image44.png,418,593,1478,919,tipping body
-data/full dataset/train/images/image80.png,414,615,794,730,tipping body
-data/full dataset/train/images/image80.png,444,714,541,821,wheel
-data/full dataset/train/images/image80.png,532,725,638,833,wheel
-data/full dataset/train/images/image80.png,784,743,908,863,wheel
-data/full dataset/train/images/image80.png,812,613,946,731,cab
-data/full dataset/train/images/image131.png,243,589,484,808,cab
-data/full dataset/train/images/image131.png,191,840,408,1074,wheel
-data/full dataset/train/images/image101.png,666,794,811,963,wheel
-data/full dataset/train/images/image101.png,1083,813,1243,980,wheel
-data/full dataset/train/images/image101.png,1247,809,1414,975,wheel
-data/full dataset/train/images/image101.png,679,638,864,795,cab
-data/full dataset/train/images/image101.png,1084,379,1507,865,tipping body
-data/full dataset/train/images/image18.png,1438,564,1582,716,cab
-data/full dataset/train/images/image18.png,1516,733,1638,891,wheel
-data/full dataset/train/images/image18.png,1074,753,1252,934,wheel
-data/full dataset/train/images/image18.png,887,754,1061,935,wheel
-data/full dataset/train/images/image18.png,774,280,1233,816,tipping body
-data/full dataset/train/images/image200.png,1140,598,1353,655,tipping body
-data/full dataset/train/images/image200.png,1291,658,1340,728,wheel
-data/full dataset/train/images/image200.png,1230,663,1295,733,wheel
-data/full dataset/train/images/image200.png,1121,668,1178,739,wheel
-data/full dataset/train/images/image200.png,1056,599,1140,665,cab
-data/full dataset/train/images/image138.png,1136,551,1507,659,tipping body
-data/full dataset/train/images/image138.png,1364,661,1472,770,wheel
-data/full dataset/train/images/image138.png,1264,663,1367,771,wheel
-data/full dataset/train/images/image138.png,1009,671,1114,779,wheel
-data/full dataset/train/images/image138.png,982,551,1099,654,cab
-data/full dataset/train/images/image213.png,812,613,988,658,tipping body
-data/full dataset/train/images/image213.png,822,658,868,704,wheel
-data/full dataset/train/images/image213.png,865,658,914,710,wheel
-data/full dataset/train/images/image213.png,984,666,1037,719,wheel
-data/full dataset/train/images/image213.png,991,612,1052,663,cab
-data/full dataset/train/images/image292.png,1090,743,1187,851,wheel
-data/full dataset/train/images/image292.png,801,750,924,878,wheel
-data/full dataset/train/images/image292.png,672,756,799,887,wheel
-data/full dataset/train/images/image292.png,623,621,1037,736,tipping body
-data/full dataset/train/images/image292.png,1052,620,1175,729,cab
-data/full dataset/train/images/image64.png,194,609,488,879,cab
-data/full dataset/train/images/image64.png,139,911,370,1080,wheel
-data/full dataset/train/images/image64.png,489,598,1553,906,tipping body
-data/full dataset/train/images/image57.png,166,596,406,814,cab
-data/full dataset/train/images/image57.png,109,844,337,1078,wheel
-data/full dataset/train/images/image57.png,387,590,1352,883,tipping body
-data/full dataset/train/images/image103.png,476,660,752,915,cab
-data/full dataset/train/images/image103.png,419,935,645,1080,wheel
-data/full dataset/train/images/image103.png,1101,970,1362,1080,wheel
-data/full dataset/train/images/image103.png,1367,945,1636,1080,wheel
-data/full dataset/train/images/image103.png,1103,231,1777,1023,tipping body
-data/full dataset/train/images/image206.png,915,223,1123,276,tipping body
-data/full dataset/train/images/image206.png,1046,275,1101,329,wheel
-data/full dataset/train/images/image206.png,984,279,1041,333,wheel
-data/full dataset/train/images/image206.png,837,286,898,343,wheel
-data/full dataset/train/images/image206.png,827,226,897,281,cab
-data/full dataset/train/images/image132.png,106,875,311,1080,wheel
-data/full dataset/train/images/image132.png,169,602,409,845,cab
-data/full dataset/train/images/image132.png,416,679,1483,929,tipping body
-data/full dataset/train/images/image202.png,766,666,1146,762,tipping body
-data/full dataset/train/images/image202.png,1046,764,1129,873,wheel
-data/full dataset/train/images/image202.png,963,781,1059,892,wheel
-data/full dataset/train/images/image202.png,729,814,850,952,wheel
-data/full dataset/train/images/image202.png,611,670,768,804,cab
-data/full dataset/train/images/image100.png,732,754,866,891,wheel
-data/full dataset/train/images/image100.png,1081,764,1214,903,wheel
-data/full dataset/train/images/image100.png,1216,761,1357,900,wheel
-data/full dataset/train/images/image100.png,744,623,896,748,cab
-data/full dataset/train/images/image100.png,1086,408,1434,809,tipping body
-data/full dataset/train/images/image91.png,933,320,1457,960,tipping body
-data/full dataset/train/images/image91.png,889,859,1097,988,wheel
-data/full dataset/train/images/image91.png,1109,873,1313,1010,wheel
-data/full dataset/train/images/image91.png,486,806,637,980,wheel
-data/full dataset/train/images/image91.png,538,636,723,809,cab
-data/full dataset/train/images/image84.png,497,703,584,798,wheel
-data/full dataset/train/images/image84.png,579,709,678,811,wheel
-data/full dataset/train/images/image84.png,812,724,921,829,wheel
-data/full dataset/train/images/image84.png,832,615,953,706,cab
-data/full dataset/train/images/image84.png,467,611,818,703,tipping body
-data/full dataset/train/images/image69.png,236,596,466,833,cab
-data/full dataset/train/images/image69.png,176,831,383,1070,wheel
-data/full dataset/train/images/image69.png,714,894,982,1080,wheel
-data/full dataset/train/images/image69.png,1003,890,1267,1080,wheel
-data/full dataset/train/images/image69.png,458,586,1386,880,tipping body
-data/full dataset/train/images/image134.png,353,670,1533,964,tipping body
-data/full dataset/train/images/image134.png,41,889,251,1080,wheel
-data/full dataset/train/images/image134.png,109,606,348,858,cab
-data/full dataset/train/images/image232.png,1068,564,1309,639,tipping body
-data/full dataset/train/images/image232.png,1221,634,1286,699,wheel
-data/full dataset/train/images/image232.png,1157,639,1221,701,wheel
-data/full dataset/train/images/image232.png,1040,642,1093,709,wheel
-data/full dataset/train/images/image232.png,973,563,1063,635,cab
-data/full dataset/train/images/image110.png,539,631,623,730,wheel
-data/full dataset/train/images/image110.png,702,659,793,764,wheel
-data/full dataset/train/images/image110.png,793,670,891,786,wheel
-data/full dataset/train/images/image110.png,903,649,973,745,wheel
-data/full dataset/train/images/image110.png,643,545,1007,655,tipping body
-data/full dataset/train/images/image110.png,573,545,651,625,cab
-data/full dataset/train/images/image269.png,744,694,941,865,wheel
-data/full dataset/train/images/image269.png,294,664,459,841,wheel
-data/full dataset/train/images/image269.png,164,658,308,821,wheel
-data/full dataset/train/images/image269.png,734,475,951,664,cab
-data/full dataset/train/images/image269.png,113,465,696,660,tipping body
-data/full dataset/train/images/image61.png,622,555,769,664,cab
-data/full dataset/train/images/image61.png,617,695,753,834,wheel
-data/full dataset/train/images/image61.png,959,696,1093,834,wheel
-data/full dataset/train/images/image61.png,1092,691,1231,829,wheel
-data/full dataset/train/images/image61.png,814,551,1278,683,tipping body
-data/full dataset/train/images/image318.png,848,757,954,861,wheel
-data/full dataset/train/images/image318.png,1097,746,1189,831,wheel
-data/full dataset/train/images/image318.png,1189,755,1281,851,wheel
-data/full dataset/train/images/image318.png,836,644,942,745,cab
-data/full dataset/train/images/image318.png,978,643,1321,748,tipping body
-data/full dataset/train/images/image284.png,492,621,969,770,tipping body
-data/full dataset/train/images/image284.png,966,613,1268,845,cab
-data/full dataset/train/images/image262.png,877,450,1067,505,tipping body
-data/full dataset/train/images/image262.png,896,506,942,552,wheel
-data/full dataset/train/images/image262.png,941,507,994,555,wheel
-data/full dataset/train/images/image262.png,1075,509,1131,560,wheel
-data/full dataset/train/images/image262.png,1073,450,1137,502,cab
-data/full dataset/train/images/image290.png,1346,644,1413,710,wheel
-data/full dataset/train/images/image290.png,1174,649,1247,721,wheel
-data/full dataset/train/images/image290.png,1103,652,1172,723,wheel
-data/full dataset/train/images/image290.png,1065,573,1313,646,tipping body
-data/full dataset/train/images/image290.png,1329,570,1413,636,cab
-data/full dataset/train/images/image149.png,1396,640,1920,940,tipping body
-data/full dataset/train/images/image149.png,1736,930,1919,1080,wheel
-data/full dataset/train/images/image22.png,681,221,1242,890,tipping body
-data/full dataset/train/images/image22.png,822,808,1034,908,wheel
-data/full dataset/train/images/image22.png,1047,804,1261,906,wheel
-data/full dataset/train/images/image22.png,1581,765,1712,955,wheel
-data/full dataset/train/images/image22.png,1462,570,1647,759,cab
-data/full dataset/train/images/image217.png,879,729,974,829,wheel
-data/full dataset/train/images/image217.png,683,721,762,808,wheel
-data/full dataset/train/images/image217.png,618,719,693,809,wheel
-data/full dataset/train/images/image217.png,888,631,1001,715,cab
-data/full dataset/train/images/image217.png,600,632,888,722,tipping body
-data/full dataset/train/images/image315.png,464,564,669,753,cab
-data/full dataset/train/images/image315.png,434,800,601,981,wheel
-data/full dataset/train/images/image315.png,671,548,1497,801,tipping body
-data/full dataset/train/images/image309.png,840,397,1060,463,tipping body
-data/full dataset/train/images/image309.png,972,478,1031,538,wheel
-data/full dataset/train/images/image309.png,904,466,967,526,wheel
-data/full dataset/train/images/image309.png,748,471,810,530,wheel
-data/full dataset/train/images/image309.png,749,397,824,460,cab
-data/full dataset/train/images/image38.png,518,688,661,834,wheel
-data/full dataset/train/images/image38.png,862,705,1002,846,wheel
-data/full dataset/train/images/image38.png,998,704,1149,850,wheel
-data/full dataset/train/images/image38.png,537,561,684,680,cab
-data/full dataset/train/images/image38.png,719,555,1206,700,tipping body
-data/full dataset/train/images/image16.png,494,171,1167,975,tipping body
-data/full dataset/train/images/image16.png,671,870,934,1080,wheel
-data/full dataset/train/images/image16.png,936,863,1204,1080,wheel
-data/full dataset/train/images/image16.png,1541,793,1687,1011,wheel
-data/full dataset/train/images/image16.png,1421,575,1607,788,cab
-data/full dataset/train/images/image207.png,798,229,881,295,cab
-data/full dataset/train/images/image207.png,802,305,877,374,wheel
-data/full dataset/train/images/image207.png,982,301,1059,376,wheel
-data/full dataset/train/images/image207.png,1057,304,1134,378,wheel
-data/full dataset/train/images/image207.png,906,230,1164,301,tipping body
-data/full dataset/train/images/image143.png,1003,601,1289,889,cab
-data/full dataset/train/images/image143.png,1087,961,1347,1080,wheel
-data/full dataset/train/images/image143.png,1683,873,1896,1080,wheel
-data/full dataset/train/images/image143.png,1341,599,1920,866,tipping body
-data/full dataset/train/images/image41.png,522,698,666,835,wheel
-data/full dataset/train/images/image41.png,862,706,1003,845,wheel
-data/full dataset/train/images/image41.png,1008,704,1148,846,wheel
-data/full dataset/train/images/image41.png,537,555,686,681,cab
-data/full dataset/train/images/image41.png,717,553,1204,695,tipping body
-data/full dataset/train/images/image3.png,1,389,256,742,cab
-data/full dataset/train/images/image3.png,121,684,224,803,wheel
-data/full dataset/train/images/image3.png,211,668,293,776,wheel
-data/full dataset/train/images/image3.png,347,635,397,719,wheel
-data/full dataset/train/images/image3.png,273,548,346,625,cab
-data/full dataset/train/images/image70.png,204,596,444,840,cab
-data/full dataset/train/images/image70.png,134,849,369,1080,wheel
-data/full dataset/train/images/image70.png,697,919,988,1080,wheel
-data/full dataset/train/images/image70.png,998,921,1301,1080,wheel
-data/full dataset/train/images/image70.png,417,590,1432,906,tipping body
-data/full dataset/train/images/image31.png,809,587,1305,801,tipping body
-data/full dataset/train/images/image31.png,758,698,825,813,wheel
-data/full dataset/train/images/image31.png,842,763,945,863,wheel
-data/full dataset/train/images/image31.png,940,801,1055,865,wheel
-data/full dataset/train/images/image31.png,1166,774,1278,898,wheel
-data/full dataset/train/images/image218.png,1237,608,1379,731,cab
-data/full dataset/train/images/image218.png,1209,753,1342,889,wheel
-data/full dataset/train/images/image218.png,950,709,1046,821,wheel
-data/full dataset/train/images/image218.png,864,699,954,807,wheel
-data/full dataset/train/images/image218.png,846,604,1229,704,tipping body
-data/full dataset/train/images/image66.png,581,668,704,794,wheel
-data/full dataset/train/images/image66.png,882,681,1008,809,wheel
-data/full dataset/train/images/image66.png,1008,683,1136,808,wheel
-data/full dataset/train/images/image66.png,752,546,1187,676,tipping body
-data/full dataset/train/images/image66.png,597,548,732,654,cab
-data/full dataset/train/images/image27.png,1004,220,1238,448,tipping body
-data/full dataset/train/images/image27.png,1569,760,1706,959,wheel
-data/full dataset/train/images/image27.png,1494,569,1643,750,cab
-data/full dataset/train/images/image88.png,564,660,852,895,cab
-data/full dataset/train/images/image88.png,479,940,709,1080,wheel
-data/full dataset/train/images/image88.png,106,855,271,1071,wheel
-data/full dataset/train/images/image88.png,1,824,119,1017,wheel
-data/full dataset/train/images/image88.png,1,651,581,891,tipping body
-data/full dataset/train/images/image264.png,1119,496,1179,554,wheel
-data/full dataset/train/images/image264.png,963,489,1025,547,wheel
-data/full dataset/train/images/image264.png,912,493,965,547,wheel
-data/full dataset/train/images/image264.png,891,428,1105,489,tipping body
-data/full dataset/train/images/image264.png,1119,428,1189,487,cab
-data/full dataset/train/images/image282.png,974,614,1269,883,cab
-data/full dataset/train/images/image282.png,883,926,1107,1078,wheel
-data/full dataset/train/images/image282.png,576,789,704,958,wheel
-data/full dataset/train/images/image282.png,509,768,598,918,wheel
-data/full dataset/train/images/image282.png,492,618,969,784,tipping body
-data/full dataset/train/images/image263.png,1076,526,1132,578,wheel
-data/full dataset/train/images/image263.png,946,522,996,572,wheel
-data/full dataset/train/images/image263.png,898,522,945,571,wheel
-data/full dataset/train/images/image263.png,1080,468,1139,519,cab
-data/full dataset/train/images/image263.png,880,466,1070,521,tipping body
-data/full dataset/train/images/image150.png,1739,924,1920,1079,wheel
-data/full dataset/train/images/image150.png,1431,644,1920,942,tipping body
-data/full dataset/train/images/image281.png,497,614,982,773,tipping body
-data/full dataset/train/images/image281.png,516,766,609,911,wheel
-data/full dataset/train/images/image281.png,586,789,718,960,wheel
-data/full dataset/train/images/image281.png,896,935,1112,1080,wheel
-data/full dataset/train/images/image281.png,986,616,1273,874,cab
-data/full dataset/train/images/image119.png,763,535,852,608,cab
-data/full dataset/train/images/image119.png,766,616,848,696,wheel
-data/full dataset/train/images/image119.png,962,624,1037,701,wheel
-data/full dataset/train/images/image119.png,1041,623,1123,705,wheel
-data/full dataset/train/images/image119.png,877,538,1153,625,tipping body
-data/full dataset/train/images/image277.png,1142,674,1208,744,wheel
-data/full dataset/train/images/image277.png,1024,663,1080,727,wheel
-data/full dataset/train/images/image277.png,985,662,1027,730,wheel
-data/full dataset/train/images/image277.png,1161,586,1250,665,cab
-data/full dataset/train/images/image277.png,973,594,1159,662,tipping body
-data/full dataset/train/images/image314.png,926,730,1084,831,wheel
-data/full dataset/train/images/image314.png,1094,753,1254,831,wheel
-data/full dataset/train/images/image314.png,562,738,697,875,wheel
-data/full dataset/train/images/image314.png,573,553,727,713,cab
-data/full dataset/train/images/image314.png,757,549,1328,723,tipping body
-data/full dataset/train/images/image128.png,168,847,396,1069,wheel
-data/full dataset/train/images/image128.png,239,589,484,809,cab
-data/full dataset/train/images/image126.png,233,586,476,814,cab
-data/full dataset/train/images/image126.png,188,835,416,1073,wheel
-data/full dataset/train/images/image126.png,461,588,1424,865,tipping body
-data/full dataset/train/images/image275.png,1102,648,1144,692,wheel
-data/full dataset/train/images/image275.png,1023,640,1063,684,wheel
-data/full dataset/train/images/image275.png,995,640,1026,682,wheel
-data/full dataset/train/images/image275.png,1110,596,1177,638,cab
-data/full dataset/train/images/image275.png,985,596,1111,637,tipping body
-data/full dataset/train/images/image36.png,553,603,1179,888,tipping body
-data/full dataset/train/images/image36.png,626,846,754,1026,wheel
-data/full dataset/train/images/image36.png,892,879,1076,1080,wheel
-data/full dataset/train/images/image36.png,1021,816,1149,1019,wheel
-data/full dataset/train/images/image36.png,1174,720,1256,879,wheel
-data/full dataset/train/images/image112.png,534,558,631,658,cab
-data/full dataset/train/images/image112.png,493,680,598,810,wheel
-data/full dataset/train/images/image112.png,681,726,807,883,wheel
-data/full dataset/train/images/image112.png,793,751,953,901,wheel
-data/full dataset/train/images/image112.png,967,719,1072,850,wheel
-data/full dataset/train/images/image112.png,606,566,1119,734,tipping body
-data/full dataset/train/images/image241.png,1218,818,1407,1019,wheel
-data/full dataset/train/images/image241.png,459,966,695,1080,wheel
-data/full dataset/train/images/image241.png,292,599,581,915,cab
-data/full dataset/train/images/image95.png,764,609,891,701,cab
-data/full dataset/train/images/image95.png,742,713,848,818,wheel
-data/full dataset/train/images/image95.png,999,733,1114,851,wheel
-data/full dataset/train/images/image95.png,1117,738,1231,855,wheel
-data/full dataset/train/images/image95.png,1021,429,1306,786,tipping body
-data/full dataset/train/images/image141.png,1034,863,1291,1080,wheel
-data/full dataset/train/images/image141.png,1574,816,1763,1044,wheel
-data/full dataset/train/images/image141.png,1752,803,1920,1009,wheel
-data/full dataset/train/images/image141.png,994,586,1229,821,cab
-data/full dataset/train/images/image141.png,1292,585,1920,792,tipping body
-data/full dataset/train/images/image330.png,572,681,847,910,cab
-data/full dataset/train/images/image330.png,897,680,1602,855,tipping body
-data/full dataset/train/images/image330.png,1433,865,1564,1060,wheel
-data/full dataset/train/images/image278.png,1173,702,1267,804,wheel
-data/full dataset/train/images/image278.png,1024,678,1093,763,wheel
-data/full dataset/train/images/image278.png,973,674,1029,756,wheel
-data/full dataset/train/images/image278.png,1204,590,1324,689,cab
-data/full dataset/train/images/image278.png,957,595,1204,675,tipping body
+/home/carbor/data/full dataset/train/images/image60.png,614,693,757,830,wheel
+/home/carbor/data/full dataset/train/images/image60.png,954,695,1092,834,wheel
+/home/carbor/data/full dataset/train/images/image60.png,1092,694,1232,828,wheel
+/home/carbor/data/full dataset/train/images/image60.png,621,556,764,670,cab
+/home/carbor/data/full dataset/train/images/image60.png,812,551,1284,690,tipping body
+/home/carbor/data/full dataset/train/images/image1.png,297,650,372,743,wheel
+/home/carbor/data/full dataset/train/images/image1.png,359,636,423,725,wheel
+/home/carbor/data/full dataset/train/images/image1.png,453,614,491,683,wheel
+/home/carbor/data/full dataset/train/images/image1.png,157,403,376,693,tipping body
+/home/carbor/data/full dataset/train/images/image1.png,386,536,448,606,cab
+/home/carbor/data/full dataset/train/images/image133.png,416,704,1482,941,tipping body
+/home/carbor/data/full dataset/train/images/image133.png,153,608,411,846,cab
+/home/carbor/data/full dataset/train/images/image133.png,94,878,319,1080,wheel
+/home/carbor/data/full dataset/train/images/image104.png,976,631,1122,768,cab
+/home/carbor/data/full dataset/train/images/image104.png,999,789,1148,936,wheel
+/home/carbor/data/full dataset/train/images/image104.png,1342,765,1471,904,wheel
+/home/carbor/data/full dataset/train/images/image104.png,1462,759,1581,886,wheel
+/home/carbor/data/full dataset/train/images/image104.png,1298,414,1631,795,tipping body
+/home/carbor/data/full dataset/train/images/image83.png,502,671,822,936,cab
+/home/carbor/data/full dataset/train/images/image83.png,24,881,191,1079,wheel
+/home/carbor/data/full dataset/train/images/image83.png,1,651,522,886,tipping body
+/home/carbor/data/full dataset/train/images/image71.png,418,591,1429,896,tipping body
+/home/carbor/data/full dataset/train/images/image71.png,697,918,986,1080,wheel
+/home/carbor/data/full dataset/train/images/image71.png,992,916,1301,1080,wheel
+/home/carbor/data/full dataset/train/images/image71.png,136,851,347,1078,wheel
+/home/carbor/data/full dataset/train/images/image71.png,197,600,423,825,cab
+/home/carbor/data/full dataset/train/images/image320.png,757,736,921,884,cab
+/home/carbor/data/full dataset/train/images/image320.png,993,730,1548,880,tipping body
+/home/carbor/data/full dataset/train/images/image320.png,1354,891,1497,1026,wheel
+/home/carbor/data/full dataset/train/images/image320.png,1253,901,1343,1007,wheel
+/home/carbor/data/full dataset/train/images/image14.png,1132,684,1239,821,wheel
+/home/carbor/data/full dataset/train/images/image14.png,764,719,917,873,wheel
+/home/carbor/data/full dataset/train/images/image14.png,604,729,758,888,wheel
+/home/carbor/data/full dataset/train/images/image14.png,499,319,891,795,tipping body
+/home/carbor/data/full dataset/train/images/image14.png,1062,561,1187,678,cab
+/home/carbor/data/full dataset/train/images/image228.png,1182,613,1486,924,cab
+/home/carbor/data/full dataset/train/images/image228.png,1143,948,1404,1080,wheel
+/home/carbor/data/full dataset/train/images/image228.png,701,785,858,975,wheel
+/home/carbor/data/full dataset/train/images/image228.png,631,755,736,920,wheel
+/home/carbor/data/full dataset/train/images/image228.png,926,733,1052,823,wheel
+/home/carbor/data/full dataset/train/images/image228.png,598,299,1006,776,tipping body
+/home/carbor/data/full dataset/train/images/image308.png,732,383,803,440,cab
+/home/carbor/data/full dataset/train/images/image308.png,734,452,796,508,wheel
+/home/carbor/data/full dataset/train/images/image308.png,882,447,941,502,wheel
+/home/carbor/data/full dataset/train/images/image308.png,943,456,1002,515,wheel
+/home/carbor/data/full dataset/train/images/image308.png,818,381,1028,446,tipping body
+/home/carbor/data/full dataset/train/images/image288.png,1298,632,1356,689,wheel
+/home/carbor/data/full dataset/train/images/image288.png,1146,626,1206,689,wheel
+/home/carbor/data/full dataset/train/images/image288.png,1081,626,1143,688,wheel
+/home/carbor/data/full dataset/train/images/image288.png,1051,561,1273,626,tipping body
+/home/carbor/data/full dataset/train/images/image288.png,1284,562,1355,623,cab
+/home/carbor/data/full dataset/train/images/image120.png,851,543,1171,635,tipping body
+/home/carbor/data/full dataset/train/images/image120.png,943,636,1037,734,wheel
+/home/carbor/data/full dataset/train/images/image120.png,1037,639,1131,734,wheel
+/home/carbor/data/full dataset/train/images/image120.png,723,634,821,724,wheel
+/home/carbor/data/full dataset/train/images/image120.png,726,543,831,621,cab
+/home/carbor/data/full dataset/train/images/image72.png,854,694,986,828,wheel
+/home/carbor/data/full dataset/train/images/image72.png,989,696,1129,833,wheel
+/home/carbor/data/full dataset/train/images/image72.png,1326,696,1457,830,wheel
+/home/carbor/data/full dataset/train/images/image72.png,808,550,1263,691,tipping body
+/home/carbor/data/full dataset/train/images/image72.png,1307,554,1452,683,cab
+/home/carbor/data/full dataset/train/images/image216.png,883,679,965,747,cab
+/home/carbor/data/full dataset/train/images/image216.png,867,756,939,828,wheel
+/home/carbor/data/full dataset/train/images/image216.png,708,742,769,808,wheel
+/home/carbor/data/full dataset/train/images/image216.png,652,737,711,807,wheel
+/home/carbor/data/full dataset/train/images/image216.png,638,679,876,743,tipping body
+/home/carbor/data/full dataset/train/images/image45.png,176,598,441,833,cab
+/home/carbor/data/full dataset/train/images/image45.png,109,870,354,1080,wheel
+/home/carbor/data/full dataset/train/images/image45.png,723,929,1026,1080,wheel
+/home/carbor/data/full dataset/train/images/image45.png,1034,933,1349,1080,wheel
+/home/carbor/data/full dataset/train/images/image45.png,416,591,1483,915,tipping body
+/home/carbor/data/full dataset/train/images/image142.png,1338,599,1920,866,tipping body
+/home/carbor/data/full dataset/train/images/image142.png,1673,870,1888,1080,wheel
+/home/carbor/data/full dataset/train/images/image142.png,1079,971,1352,1080,wheel
+/home/carbor/data/full dataset/train/images/image142.png,1001,599,1286,883,cab
+/home/carbor/data/full dataset/train/images/image317.png,881,536,962,622,cab
+/home/carbor/data/full dataset/train/images/image317.png,895,634,973,709,wheel
+/home/carbor/data/full dataset/train/images/image317.png,1090,625,1159,694,wheel
+/home/carbor/data/full dataset/train/images/image317.png,1164,637,1235,714,wheel
+/home/carbor/data/full dataset/train/images/image317.png,990,541,1264,629,tipping body
+/home/carbor/data/full dataset/train/images/image229.png,935,549,1108,594,tipping body
+/home/carbor/data/full dataset/train/images/image229.png,1049,592,1094,633,wheel
+/home/carbor/data/full dataset/train/images/image229.png,1005,596,1046,637,wheel
+/home/carbor/data/full dataset/train/images/image229.png,921,599,959,646,wheel
+/home/carbor/data/full dataset/train/images/image229.png,875,549,932,596,cab
+/home/carbor/data/full dataset/train/images/image28.png,922,702,1011,817,wheel
+/home/carbor/data/full dataset/train/images/image28.png,869,689,937,792,wheel
+/home/carbor/data/full dataset/train/images/image28.png,795,662,843,741,wheel
+/home/carbor/data/full dataset/train/images/image28.png,841,578,1162,692,tipping body
+/home/carbor/data/full dataset/train/images/image28.png,1063,689,1142,793,wheel
+/home/carbor/data/full dataset/train/images/image327.png,664,640,752,715,cab
+/home/carbor/data/full dataset/train/images/image327.png,673,738,762,824,wheel
+/home/carbor/data/full dataset/train/images/image327.png,893,725,972,808,wheel
+/home/carbor/data/full dataset/train/images/image327.png,962,716,1024,794,wheel
+/home/carbor/data/full dataset/train/images/image327.png,766,641,1043,726,tipping body
+/home/carbor/data/full dataset/train/images/image32.png,779,609,1451,878,tipping body
+/home/carbor/data/full dataset/train/images/image32.png,731,735,812,863,wheel
+/home/carbor/data/full dataset/train/images/image32.png,1261,860,1368,999,wheel
+/home/carbor/data/full dataset/train/images/image6.png,342,689,431,815,wheel
+/home/carbor/data/full dataset/train/images/image6.png,1,760,156,932,wheel
+/home/carbor/data/full dataset/train/images/image6.png,241,566,364,683,cab
+/home/carbor/data/full dataset/train/images/image58.png,359,589,1368,904,tipping body
+/home/carbor/data/full dataset/train/images/image58.png,88,855,292,1080,wheel
+/home/carbor/data/full dataset/train/images/image58.png,152,598,374,814,cab
+/home/carbor/data/full dataset/train/images/image223.png,1108,651,1166,708,wheel
+/home/carbor/data/full dataset/train/images/image223.png,997,636,1046,685,wheel
+/home/carbor/data/full dataset/train/images/image223.png,967,631,1003,682,wheel
+/home/carbor/data/full dataset/train/images/image223.png,949,498,1088,646,tipping body
+/home/carbor/data/full dataset/train/images/image223.png,1118,586,1196,646,cab
+/home/carbor/data/full dataset/train/images/image303.png,1128,566,1332,768,cab
+/home/carbor/data/full dataset/train/images/image303.png,1211,805,1376,1011,wheel
+/home/carbor/data/full dataset/train/images/image303.png,341,868,519,1076,wheel
+/home/carbor/data/full dataset/train/images/image303.png,221,578,1078,855,tipping body
+/home/carbor/data/full dataset/train/images/image127.png,233,588,478,795,cab
+/home/carbor/data/full dataset/train/images/image127.png,191,840,404,1070,wheel
+/home/carbor/data/full dataset/train/images/image127.png,729,954,901,1080,wheel
+/home/carbor/data/full dataset/train/images/image127.png,1133,974,1303,1080,wheel
+/home/carbor/data/full dataset/train/images/image127.png,468,585,1288,705,tipping body
+/home/carbor/data/full dataset/train/images/image325.png,777,691,832,745,wheel
+/home/carbor/data/full dataset/train/images/image325.png,908,685,955,735,wheel
+/home/carbor/data/full dataset/train/images/image325.png,949,683,989,729,wheel
+/home/carbor/data/full dataset/train/images/image325.png,764,634,824,684,cab
+/home/carbor/data/full dataset/train/images/image325.png,824,635,1001,684,tipping body
+/home/carbor/data/full dataset/train/images/image272.png,1025,648,1054,685,wheel
+/home/carbor/data/full dataset/train/images/image272.png,962,644,994,680,wheel
+/home/carbor/data/full dataset/train/images/image272.png,940,643,966,678,wheel
+/home/carbor/data/full dataset/train/images/image272.png,1035,609,1085,646,cab
+/home/carbor/data/full dataset/train/images/image272.png,931,611,1032,642,tipping body
+/home/carbor/data/full dataset/train/images/image210.png,441,276,1347,540,tipping body
+/home/carbor/data/full dataset/train/images/image210.png,976,548,1227,730,wheel
+/home/carbor/data/full dataset/train/images/image210.png,721,544,964,731,wheel
+/home/carbor/data/full dataset/train/images/image210.png,201,560,409,769,wheel
+/home/carbor/data/full dataset/train/images/image210.png,209,284,431,529,cab
+/home/carbor/data/full dataset/train/images/image285.png,1097,620,1259,806,cab
+/home/carbor/data/full dataset/train/images/image107.png,914,674,1194,925,cab
+/home/carbor/data/full dataset/train/images/image107.png,1453,288,1920,903,tipping body
+/home/carbor/data/full dataset/train/images/image107.png,1562,895,1765,1080,wheel
+/home/carbor/data/full dataset/train/images/image107.png,1742,859,1889,1075,wheel
+/home/carbor/data/full dataset/train/images/image324.png,801,663,846,709,wheel
+/home/carbor/data/full dataset/train/images/image324.png,911,659,948,699,wheel
+/home/carbor/data/full dataset/train/images/image324.png,945,658,979,698,wheel
+/home/carbor/data/full dataset/train/images/image324.png,790,614,838,655,cab
+/home/carbor/data/full dataset/train/images/image324.png,840,614,988,654,tipping body
+/home/carbor/data/full dataset/train/images/image114.png,407,721,534,891,wheel
+/home/carbor/data/full dataset/train/images/image114.png,609,809,787,975,wheel
+/home/carbor/data/full dataset/train/images/image114.png,474,564,553,706,cab
+/home/carbor/data/full dataset/train/images/image114.png,534,570,1246,874,tipping body
+/home/carbor/data/full dataset/train/images/image122.png,512,581,1382,849,tipping body
+/home/carbor/data/full dataset/train/images/image122.png,756,859,998,1080,wheel
+/home/carbor/data/full dataset/train/images/image122.png,1021,865,1274,1080,wheel
+/home/carbor/data/full dataset/train/images/image122.png,252,824,456,1041,wheel
+/home/carbor/data/full dataset/train/images/image122.png,293,581,506,801,cab
+/home/carbor/data/full dataset/train/images/image4.png,186,543,264,638,cab
+/home/carbor/data/full dataset/train/images/image4.png,267,643,316,728,wheel
+/home/carbor/data/full dataset/train/images/image4.png,94,679,192,788,wheel
+/home/carbor/data/full dataset/train/images/image4.png,6,701,108,836,wheel
+/home/carbor/data/full dataset/train/images/image4.png,1,371,153,690,tipping body
+/home/carbor/data/full dataset/train/images/image219.png,844,664,1359,811,tipping body
+/home/carbor/data/full dataset/train/images/image219.png,867,804,979,951,wheel
+/home/carbor/data/full dataset/train/images/image219.png,971,818,1114,981,wheel
+/home/carbor/data/full dataset/train/images/image219.png,1366,884,1571,1075,wheel
+/home/carbor/data/full dataset/train/images/image219.png,1377,666,1593,855,cab
+/home/carbor/data/full dataset/train/images/image99.png,736,751,863,888,wheel
+/home/carbor/data/full dataset/train/images/image99.png,1082,763,1214,900,wheel
+/home/carbor/data/full dataset/train/images/image99.png,1213,760,1354,901,wheel
+/home/carbor/data/full dataset/train/images/image99.png,1086,409,1432,814,tipping body
+/home/carbor/data/full dataset/train/images/image99.png,746,620,894,739,cab
+/home/carbor/data/full dataset/train/images/image15.png,419,190,1063,958,tipping body
+/home/carbor/data/full dataset/train/images/image15.png,591,864,840,1080,wheel
+/home/carbor/data/full dataset/train/images/image15.png,853,848,1103,1080,wheel
+/home/carbor/data/full dataset/train/images/image15.png,1433,775,1568,993,wheel
+/home/carbor/data/full dataset/train/images/image15.png,1308,576,1504,759,cab
+/home/carbor/data/full dataset/train/images/image51.png,183,591,461,859,cab
+/home/carbor/data/full dataset/train/images/image51.png,124,864,362,1080,wheel
+/home/carbor/data/full dataset/train/images/image51.png,426,590,1482,915,tipping body
+/home/carbor/data/full dataset/train/images/image17.png,789,273,1273,845,tipping body
+/home/carbor/data/full dataset/train/images/image17.png,911,780,1094,961,wheel
+/home/carbor/data/full dataset/train/images/image17.png,1104,776,1291,964,wheel
+/home/carbor/data/full dataset/train/images/image17.png,1578,751,1697,918,wheel
+/home/carbor/data/full dataset/train/images/image17.png,1489,574,1644,729,cab
+/home/carbor/data/full dataset/train/images/image37.png,527,604,1199,914,tipping body
+/home/carbor/data/full dataset/train/images/image37.png,608,856,742,1046,wheel
+/home/carbor/data/full dataset/train/images/image37.png,883,898,1089,1080,wheel
+/home/carbor/data/full dataset/train/images/image37.png,1016,828,1158,1035,wheel
+/home/carbor/data/full dataset/train/images/image37.png,1176,734,1266,880,wheel
+/home/carbor/data/full dataset/train/images/image301.png,1139,535,1314,706,cab
+/home/carbor/data/full dataset/train/images/image301.png,1191,726,1332,888,wheel
+/home/carbor/data/full dataset/train/images/image301.png,726,756,914,904,wheel
+/home/carbor/data/full dataset/train/images/image301.png,521,770,711,966,wheel
+/home/carbor/data/full dataset/train/images/image301.png,428,540,1093,760,tipping body
+/home/carbor/data/full dataset/train/images/image295.png,892,590,1087,785,cab
+/home/carbor/data/full dataset/train/images/image295.png,976,819,1144,1009,wheel
+/home/carbor/data/full dataset/train/images/image295.png,121,916,364,1080,wheel
+/home/carbor/data/full dataset/train/images/image295.png,1,605,823,911,tipping body
+/home/carbor/data/full dataset/train/images/image267.png,1138,586,1264,705,wheel
+/home/carbor/data/full dataset/train/images/image267.png,843,548,948,663,wheel
+/home/carbor/data/full dataset/train/images/image267.png,742,542,842,651,wheel
+/home/carbor/data/full dataset/train/images/image267.png,1147,451,1283,566,cab
+/home/carbor/data/full dataset/train/images/image267.png,711,438,1114,547,tipping body
+/home/carbor/data/full dataset/train/images/image117.png,537,568,1253,868,tipping body
+/home/carbor/data/full dataset/train/images/image117.png,766,869,990,1080,wheel
+/home/carbor/data/full dataset/train/images/image117.png,608,806,789,1035,wheel
+/home/carbor/data/full dataset/train/images/image117.png,1027,813,1167,986,wheel
+/home/carbor/data/full dataset/train/images/image117.png,403,719,542,888,wheel
+/home/carbor/data/full dataset/train/images/image276.png,1114,660,1162,715,wheel
+/home/carbor/data/full dataset/train/images/image276.png,1019,652,1063,704,wheel
+/home/carbor/data/full dataset/train/images/image276.png,986,650,1023,703,wheel
+/home/carbor/data/full dataset/train/images/image276.png,1125,598,1199,656,cab
+/home/carbor/data/full dataset/train/images/image276.png,975,601,1124,649,tipping body
+/home/carbor/data/full dataset/train/images/image90.png,999,405,1348,831,tipping body
+/home/carbor/data/full dataset/train/images/image90.png,1116,776,1254,921,wheel
+/home/carbor/data/full dataset/train/images/image90.png,974,769,1111,905,wheel
+/home/carbor/data/full dataset/train/images/image90.png,672,735,788,866,wheel
+/home/carbor/data/full dataset/train/images/image90.png,693,618,847,735,cab
+/home/carbor/data/full dataset/train/images/image305.png,1203,816,1364,999,wheel
+/home/carbor/data/full dataset/train/images/image305.png,1162,560,1322,755,cab
+/home/carbor/data/full dataset/train/images/image305.png,334,923,571,1080,wheel
+/home/carbor/data/full dataset/train/images/image199.png,1017,664,1064,718,wheel
+/home/carbor/data/full dataset/train/images/image199.png,1110,657,1161,710,wheel
+/home/carbor/data/full dataset/train/images/image199.png,1156,653,1202,707,wheel
+/home/carbor/data/full dataset/train/images/image199.png,965,607,1039,660,cab
+/home/carbor/data/full dataset/train/images/image199.png,1035,607,1211,655,tipping body
+/home/carbor/data/full dataset/train/images/image271.png,633,524,909,774,cab
+/home/carbor/data/full dataset/train/images/image271.png,1,513,589,758,tipping body
+/home/carbor/data/full dataset/train/images/image271.png,77,776,291,998,wheel
+/home/carbor/data/full dataset/train/images/image271.png,1,754,99,973,wheel
+/home/carbor/data/full dataset/train/images/image214.png,993,613,1055,661,cab
+/home/carbor/data/full dataset/train/images/image214.png,985,665,1036,717,wheel
+/home/carbor/data/full dataset/train/images/image214.png,865,659,910,706,wheel
+/home/carbor/data/full dataset/train/images/image214.png,823,658,869,707,wheel
+/home/carbor/data/full dataset/train/images/image214.png,812,614,984,667,tipping body
+/home/carbor/data/full dataset/train/images/image279.png,932,752,1058,883,wheel
+/home/carbor/data/full dataset/train/images/image279.png,724,717,816,827,wheel
+/home/carbor/data/full dataset/train/images/image279.png,664,710,734,820,wheel
+/home/carbor/data/full dataset/train/images/image279.png,973,593,1136,732,cab
+/home/carbor/data/full dataset/train/images/image279.png,643,599,971,717,tipping body
+/home/carbor/data/full dataset/train/images/image312.png,959,563,1096,700,wheel
+/home/carbor/data/full dataset/train/images/image312.png,1099,586,1244,730,wheel
+/home/carbor/data/full dataset/train/images/image312.png,633,566,761,690,wheel
+/home/carbor/data/full dataset/train/images/image312.png,811,408,1313,573,tipping body
+/home/carbor/data/full dataset/train/images/image312.png,642,415,789,543,cab
+/home/carbor/data/full dataset/train/images/image265.png,895,530,959,594,wheel
+/home/carbor/data/full dataset/train/images/image265.png,956,527,1028,596,wheel
+/home/carbor/data/full dataset/train/images/image265.png,1144,532,1218,605,wheel
+/home/carbor/data/full dataset/train/images/image265.png,869,449,1127,530,tipping body
+/home/carbor/data/full dataset/train/images/image265.png,1140,451,1226,521,cab
+/home/carbor/data/full dataset/train/images/image224.png,1102,581,1171,653,wheel
+/home/carbor/data/full dataset/train/images/image224.png,963,565,1020,625,wheel
+/home/carbor/data/full dataset/train/images/image224.png,926,560,972,619,wheel
+/home/carbor/data/full dataset/train/images/image224.png,907,392,1070,576,tipping body
+/home/carbor/data/full dataset/train/images/image224.png,1112,502,1206,573,cab
+/home/carbor/data/full dataset/train/images/image145.png,1684,871,1897,1080,wheel
+/home/carbor/data/full dataset/train/images/image145.png,1338,598,1920,860,tipping body
+/home/carbor/data/full dataset/train/images/image145.png,996,601,1282,859,cab
+/home/carbor/data/full dataset/train/images/image55.png,526,561,681,683,cab
+/home/carbor/data/full dataset/train/images/image55.png,509,696,653,834,wheel
+/home/carbor/data/full dataset/train/images/image55.png,851,709,992,849,wheel
+/home/carbor/data/full dataset/train/images/image55.png,1001,709,1141,854,wheel
+/home/carbor/data/full dataset/train/images/image55.png,709,555,1204,700,tipping body
+/home/carbor/data/full dataset/train/images/image46.png,547,559,687,675,cab
+/home/carbor/data/full dataset/train/images/image46.png,529,690,669,826,wheel
+/home/carbor/data/full dataset/train/images/image46.png,864,699,999,836,wheel
+/home/carbor/data/full dataset/train/images/image46.png,1004,698,1143,836,wheel
+/home/carbor/data/full dataset/train/images/image46.png,724,549,1198,689,tipping body
+/home/carbor/data/full dataset/train/images/image240.png,281,599,577,899,cab
+/home/carbor/data/full dataset/train/images/image240.png,452,970,706,1080,wheel
+/home/carbor/data/full dataset/train/images/image240.png,1222,866,1406,1018,wheel
+/home/carbor/data/full dataset/train/images/image296.png,159,571,966,861,tipping body
+/home/carbor/data/full dataset/train/images/image296.png,277,865,519,1078,wheel
+/home/carbor/data/full dataset/train/images/image296.png,527,839,738,1029,wheel
+/home/carbor/data/full dataset/train/images/image296.png,1112,778,1262,931,wheel
+/home/carbor/data/full dataset/train/images/image296.png,1019,550,1219,744,cab
+/home/carbor/data/full dataset/train/images/image230.png,872,549,929,592,cab
+/home/carbor/data/full dataset/train/images/image230.png,918,598,957,646,wheel
+/home/carbor/data/full dataset/train/images/image230.png,1004,594,1048,638,wheel
+/home/carbor/data/full dataset/train/images/image230.png,1048,591,1094,634,wheel
+/home/carbor/data/full dataset/train/images/image230.png,936,546,1108,591,tipping body
+/home/carbor/data/full dataset/train/images/image87.png,567,656,848,931,cab
+/home/carbor/data/full dataset/train/images/image87.png,478,945,701,1080,wheel
+/home/carbor/data/full dataset/train/images/image87.png,99,858,262,1068,wheel
+/home/carbor/data/full dataset/train/images/image87.png,3,821,121,1025,wheel
+/home/carbor/data/full dataset/train/images/image87.png,1,649,573,864,tipping body
+/home/carbor/data/full dataset/train/images/image26.png,1574,765,1708,958,wheel
+/home/carbor/data/full dataset/train/images/image26.png,1494,575,1646,751,cab
+/home/carbor/data/full dataset/train/images/image26.png,1002,225,1234,459,tipping body
+/home/carbor/data/full dataset/train/images/image21.png,672,221,1238,889,tipping body
+/home/carbor/data/full dataset/train/images/image21.png,816,808,1038,973,wheel
+/home/carbor/data/full dataset/train/images/image21.png,1046,805,1269,980,wheel
+/home/carbor/data/full dataset/train/images/image21.png,1574,759,1708,965,wheel
+/home/carbor/data/full dataset/train/images/image21.png,1462,573,1647,754,cab
+/home/carbor/data/full dataset/train/images/image124.png,464,590,1429,874,tipping body
+/home/carbor/data/full dataset/train/images/image124.png,727,894,1000,1080,wheel
+/home/carbor/data/full dataset/train/images/image124.png,1023,905,1297,1045,wheel
+/home/carbor/data/full dataset/train/images/image124.png,193,841,412,1074,wheel
+/home/carbor/data/full dataset/train/images/image124.png,244,590,461,821,cab
+/home/carbor/data/full dataset/train/images/image298.png,498,579,1002,751,tipping body
+/home/carbor/data/full dataset/train/images/image298.png,572,754,717,898,wheel
+/home/carbor/data/full dataset/train/images/image298.png,721,740,867,885,wheel
+/home/carbor/data/full dataset/train/images/image298.png,1076,718,1188,844,wheel
+/home/carbor/data/full dataset/train/images/image298.png,1018,571,1172,695,cab
+/home/carbor/data/full dataset/train/images/image42.png,517,565,673,689,cab
+/home/carbor/data/full dataset/train/images/image42.png,503,704,641,853,wheel
+/home/carbor/data/full dataset/train/images/image42.png,856,716,1003,868,wheel
+/home/carbor/data/full dataset/train/images/image42.png,1006,714,1154,865,wheel
+/home/carbor/data/full dataset/train/images/image42.png,706,558,1217,713,tipping body
+/home/carbor/data/full dataset/train/images/image102.png,473,665,758,895,cab
+/home/carbor/data/full dataset/train/images/image102.png,426,938,643,1080,wheel
+/home/carbor/data/full dataset/train/images/image102.png,1096,965,1360,1080,wheel
+/home/carbor/data/full dataset/train/images/image102.png,1368,948,1633,1080,wheel
+/home/carbor/data/full dataset/train/images/image102.png,1102,235,1768,1029,tipping body
+/home/carbor/data/full dataset/train/images/image29.png,796,658,842,738,wheel
+/home/carbor/data/full dataset/train/images/image29.png,868,687,936,791,wheel
+/home/carbor/data/full dataset/train/images/image29.png,924,703,1008,817,wheel
+/home/carbor/data/full dataset/train/images/image29.png,840,580,1166,697,tipping body
+/home/carbor/data/full dataset/train/images/image29.png,1066,695,1139,793,wheel
+/home/carbor/data/full dataset/train/images/image306.png,1207,820,1367,1000,wheel
+/home/carbor/data/full dataset/train/images/image306.png,336,913,588,1079,wheel
+/home/carbor/data/full dataset/train/images/image306.png,1208,565,1323,733,cab
+/home/carbor/data/full dataset/train/images/image77.png,561,578,1536,861,tipping body
+/home/carbor/data/full dataset/train/images/image77.png,674,886,949,1080,wheel
+/home/carbor/data/full dataset/train/images/image77.png,966,898,1242,1080,wheel
+/home/carbor/data/full dataset/train/images/image77.png,1647,871,1836,1080,wheel
+/home/carbor/data/full dataset/train/images/image77.png,1563,595,1784,843,cab
+/home/carbor/data/full dataset/train/images/image238.png,678,591,1468,800,tipping body
+/home/carbor/data/full dataset/train/images/image238.png,291,608,587,918,cab
+/home/carbor/data/full dataset/train/images/image238.png,458,965,689,1080,wheel
+/home/carbor/data/full dataset/train/images/image294.png,852,570,1019,725,cab
+/home/carbor/data/full dataset/train/images/image294.png,908,761,1047,920,wheel
+/home/carbor/data/full dataset/train/images/image294.png,442,808,632,994,wheel
+/home/carbor/data/full dataset/train/images/image294.png,232,829,432,1034,wheel
+/home/carbor/data/full dataset/train/images/image294.png,131,579,807,828,tipping body
+/home/carbor/data/full dataset/train/images/image326.png,735,693,801,759,wheel
+/home/carbor/data/full dataset/train/images/image326.png,900,683,957,745,wheel
+/home/carbor/data/full dataset/train/images/image326.png,951,679,1001,741,wheel
+/home/carbor/data/full dataset/train/images/image326.png,797,621,1015,679,tipping body
+/home/carbor/data/full dataset/train/images/image326.png,724,622,793,683,cab
+/home/carbor/data/full dataset/train/images/image96.png,653,750,772,875,wheel
+/home/carbor/data/full dataset/train/images/image96.png,962,774,1099,926,wheel
+/home/carbor/data/full dataset/train/images/image96.png,1107,785,1252,931,wheel
+/home/carbor/data/full dataset/train/images/image96.png,984,406,1344,841,tipping body
+/home/carbor/data/full dataset/train/images/image96.png,682,621,832,740,cab
+/home/carbor/data/full dataset/train/images/image54.png,526,558,679,674,cab
+/home/carbor/data/full dataset/train/images/image54.png,511,693,654,836,wheel
+/home/carbor/data/full dataset/train/images/image54.png,849,709,994,855,wheel
+/home/carbor/data/full dataset/train/images/image54.png,994,710,1141,853,wheel
+/home/carbor/data/full dataset/train/images/image54.png,703,555,1198,701,tipping body
+/home/carbor/data/full dataset/train/images/image291.png,1352,551,1448,636,cab
+/home/carbor/data/full dataset/train/images/image291.png,1381,651,1451,726,wheel
+/home/carbor/data/full dataset/train/images/image291.png,1158,651,1247,744,wheel
+/home/carbor/data/full dataset/train/images/image291.png,1068,654,1157,746,wheel
+/home/carbor/data/full dataset/train/images/image291.png,1021,554,1335,647,tipping body
+/home/carbor/data/full dataset/train/images/image135.png,104,600,352,851,cab
+/home/carbor/data/full dataset/train/images/image135.png,42,901,256,1080,wheel
+/home/carbor/data/full dataset/train/images/image135.png,333,630,1536,969,tipping body
+/home/carbor/data/full dataset/train/images/image220.png,663,706,1343,885,tipping body
+/home/carbor/data/full dataset/train/images/image220.png,684,873,836,1061,wheel
+/home/carbor/data/full dataset/train/images/image220.png,821,903,996,1076,wheel
+/home/carbor/data/full dataset/train/images/image220.png,1391,713,1689,983,cab
+/home/carbor/data/full dataset/train/images/image323.png,799,656,844,704,wheel
+/home/carbor/data/full dataset/train/images/image323.png,911,655,948,696,wheel
+/home/carbor/data/full dataset/train/images/image323.png,942,653,978,695,wheel
+/home/carbor/data/full dataset/train/images/image323.png,786,609,839,653,cab
+/home/carbor/data/full dataset/train/images/image323.png,836,609,989,652,tipping body
+/home/carbor/data/full dataset/train/images/image34.png,1072,665,1134,755,wheel
+/home/carbor/data/full dataset/train/images/image34.png,981,698,1051,813,wheel
+/home/carbor/data/full dataset/train/images/image34.png,919,715,1011,846,wheel
+/home/carbor/data/full dataset/train/images/image34.png,762,705,841,816,wheel
+/home/carbor/data/full dataset/train/images/image34.png,739,581,1072,709,tipping body
+/home/carbor/data/full dataset/train/images/image198.png,963,645,1019,686,cab
+/home/carbor/data/full dataset/train/images/image198.png,1001,690,1041,735,wheel
+/home/carbor/data/full dataset/train/images/image198.png,1080,689,1125,736,wheel
+/home/carbor/data/full dataset/train/images/image198.png,1119,687,1159,733,wheel
+/home/carbor/data/full dataset/train/images/image198.png,1017,643,1167,688,tipping body
+/home/carbor/data/full dataset/train/images/image43.png,299,581,534,780,cab
+/home/carbor/data/full dataset/train/images/image43.png,256,808,457,1040,wheel
+/home/carbor/data/full dataset/train/images/image43.png,778,844,1017,1080,wheel
+/home/carbor/data/full dataset/train/images/image43.png,1029,843,1276,1080,wheel
+/home/carbor/data/full dataset/train/images/image43.png,532,579,1376,826,tipping body
+/home/carbor/data/full dataset/train/images/image203.png,269,661,506,843,cab
+/home/carbor/data/full dataset/train/images/image203.png,404,873,607,1073,wheel
+/home/carbor/data/full dataset/train/images/image203.png,772,796,919,939,wheel
+/home/carbor/data/full dataset/train/images/image203.png,892,771,1012,905,wheel
+/home/carbor/data/full dataset/train/images/image203.png,513,651,1032,789,tipping body
+/home/carbor/data/full dataset/train/images/image201.png,980,589,1097,681,cab
+/home/carbor/data/full dataset/train/images/image201.png,1057,690,1139,778,wheel
+/home/carbor/data/full dataset/train/images/image201.png,1207,671,1286,756,wheel
+/home/carbor/data/full dataset/train/images/image201.png,1270,662,1338,743,wheel
+/home/carbor/data/full dataset/train/images/image201.png,1089,587,1351,668,tipping body
+/home/carbor/data/full dataset/train/images/image12.png,1301,685,1401,820,wheel
+/home/carbor/data/full dataset/train/images/image12.png,931,715,1083,865,wheel
+/home/carbor/data/full dataset/train/images/image12.png,779,721,931,875,wheel
+/home/carbor/data/full dataset/train/images/image12.png,677,315,1061,779,tipping body
+/home/carbor/data/full dataset/train/images/image12.png,1222,558,1354,669,cab
+/home/carbor/data/full dataset/train/images/image76.png,558,585,1533,860,tipping body
+/home/carbor/data/full dataset/train/images/image76.png,673,889,951,1080,wheel
+/home/carbor/data/full dataset/train/images/image76.png,959,896,1240,1080,wheel
+/home/carbor/data/full dataset/train/images/image76.png,1641,866,1838,1080,wheel
+/home/carbor/data/full dataset/train/images/image76.png,1557,598,1796,816,cab
+/home/carbor/data/full dataset/train/images/image39.png,722,553,1208,705,tipping body
+/home/carbor/data/full dataset/train/images/image39.png,858,705,1006,849,wheel
+/home/carbor/data/full dataset/train/images/image39.png,1003,706,1148,844,wheel
+/home/carbor/data/full dataset/train/images/image39.png,526,691,667,836,wheel
+/home/carbor/data/full dataset/train/images/image39.png,538,559,676,676,cab
+/home/carbor/data/full dataset/train/images/image79.png,801,726,924,845,wheel
+/home/carbor/data/full dataset/train/images/image79.png,564,721,666,820,wheel
+/home/carbor/data/full dataset/train/images/image79.png,476,709,572,811,wheel
+/home/carbor/data/full dataset/train/images/image79.png,823,618,956,721,cab
+/home/carbor/data/full dataset/train/images/image79.png,448,618,809,724,tipping body
+/home/carbor/data/full dataset/train/images/image86.png,676,633,893,831,cab
+/home/carbor/data/full dataset/train/images/image86.png,618,840,806,1021,wheel
+/home/carbor/data/full dataset/train/images/image86.png,283,799,434,970,wheel
+/home/carbor/data/full dataset/train/images/image86.png,168,779,291,938,wheel
+/home/carbor/data/full dataset/train/images/image86.png,132,634,672,789,tipping body
+/home/carbor/data/full dataset/train/images/image24.png,1483,569,1643,748,cab
+/home/carbor/data/full dataset/train/images/image24.png,782,224,1239,680,tipping body
+/home/carbor/data/full dataset/train/images/image24.png,1589,758,1709,960,wheel
+/home/carbor/data/full dataset/train/images/image0.png,297,648,376,745,wheel
+/home/carbor/data/full dataset/train/images/image0.png,361,635,423,730,wheel
+/home/carbor/data/full dataset/train/images/image0.png,453,608,491,688,wheel
+/home/carbor/data/full dataset/train/images/image0.png,391,534,451,606,cab
+/home/carbor/data/full dataset/train/images/image0.png,148,404,388,701,tipping body
+/home/carbor/data/full dataset/train/images/image111.png,542,626,621,725,wheel
+/home/carbor/data/full dataset/train/images/image111.png,706,655,797,764,wheel
+/home/carbor/data/full dataset/train/images/image111.png,794,664,898,783,wheel
+/home/carbor/data/full dataset/train/images/image111.png,911,644,984,745,wheel
+/home/carbor/data/full dataset/train/images/image111.png,638,539,1022,651,tipping body
+/home/carbor/data/full dataset/train/images/image111.png,576,538,647,624,cab
+/home/carbor/data/full dataset/train/images/image225.png,1177,702,1271,798,wheel
+/home/carbor/data/full dataset/train/images/image225.png,997,665,1067,745,wheel
+/home/carbor/data/full dataset/train/images/image225.png,947,656,1004,729,wheel
+/home/carbor/data/full dataset/train/images/image225.png,928,443,1143,676,tipping body
+/home/carbor/data/full dataset/train/images/image225.png,1200,592,1317,694,cab
+/home/carbor/data/full dataset/train/images/image25.png,1567,758,1707,955,wheel
+/home/carbor/data/full dataset/train/images/image25.png,819,848,969,994,wheel
+/home/carbor/data/full dataset/train/images/image25.png,922,224,1247,535,tipping body
+/home/carbor/data/full dataset/train/images/image25.png,1476,570,1647,746,cab
+/home/carbor/data/full dataset/train/images/image5.png,114,568,216,669,cab
+/home/carbor/data/full dataset/train/images/image5.png,211,670,281,779,wheel
+/home/carbor/data/full dataset/train/images/image5.png,1,723,97,872,wheel
+/home/carbor/data/full dataset/train/images/image94.png,742,715,839,819,wheel
+/home/carbor/data/full dataset/train/images/image94.png,1001,730,1112,846,wheel
+/home/carbor/data/full dataset/train/images/image94.png,1114,739,1233,856,wheel
+/home/carbor/data/full dataset/train/images/image94.png,762,604,884,710,cab
+/home/carbor/data/full dataset/train/images/image94.png,1021,430,1303,786,tipping body
+/home/carbor/data/full dataset/train/images/image92.png,322,648,578,903,cab
+/home/carbor/data/full dataset/train/images/image92.png,248,886,430,1080,wheel
+/home/carbor/data/full dataset/train/images/image92.png,832,175,1652,1080,tipping body
+/home/carbor/data/full dataset/train/images/image266.png,1229,643,1317,734,wheel
+/home/carbor/data/full dataset/train/images/image266.png,993,624,1080,712,wheel
+/home/carbor/data/full dataset/train/images/image266.png,916,620,993,699,wheel
+/home/carbor/data/full dataset/train/images/image266.png,1231,539,1328,628,cab
+/home/carbor/data/full dataset/train/images/image266.png,886,534,1203,620,tipping body
+/home/carbor/data/full dataset/train/images/image59.png,138,596,383,830,cab
+/home/carbor/data/full dataset/train/images/image59.png,74,860,310,1080,wheel
+/home/carbor/data/full dataset/train/images/image59.png,356,589,1371,914,tipping body
+/home/carbor/data/full dataset/train/images/image274.png,1048,646,1083,685,wheel
+/home/carbor/data/full dataset/train/images/image274.png,976,638,1013,676,wheel
+/home/carbor/data/full dataset/train/images/image274.png,954,638,980,675,wheel
+/home/carbor/data/full dataset/train/images/image274.png,945,602,1059,635,tipping body
+/home/carbor/data/full dataset/train/images/image274.png,1057,600,1113,636,cab
+/home/carbor/data/full dataset/train/images/image2.png,147,398,371,680,tipping body
+/home/carbor/data/full dataset/train/images/image2.png,294,645,372,741,wheel
+/home/carbor/data/full dataset/train/images/image2.png,357,636,423,725,wheel
+/home/carbor/data/full dataset/train/images/image2.png,448,613,491,684,wheel
+/home/carbor/data/full dataset/train/images/image2.png,388,538,449,606,cab
+/home/carbor/data/full dataset/train/images/image139.png,993,575,1156,728,cab
+/home/carbor/data/full dataset/train/images/image139.png,1021,751,1187,918,wheel
+/home/carbor/data/full dataset/train/images/image139.png,1393,738,1533,893,wheel
+/home/carbor/data/full dataset/train/images/image139.png,1534,730,1672,880,wheel
+/home/carbor/data/full dataset/train/images/image139.png,1203,571,1721,728,tipping body
+/home/carbor/data/full dataset/train/images/image226.png,1026,735,1171,871,wheel
+/home/carbor/data/full dataset/train/images/image226.png,779,679,877,789,wheel
+/home/carbor/data/full dataset/train/images/image226.png,723,669,793,766,wheel
+/home/carbor/data/full dataset/train/images/image226.png,694,381,962,691,tipping body
+/home/carbor/data/full dataset/train/images/image226.png,1053,571,1221,705,cab
+/home/carbor/data/full dataset/train/images/image243.png,1259,914,1516,1080,wheel
+/home/carbor/data/full dataset/train/images/image243.png,22,661,424,1080,cab
+/home/carbor/data/full dataset/train/images/image50.png,282,584,531,800,cab
+/home/carbor/data/full dataset/train/images/image50.png,239,806,453,1039,wheel
+/home/carbor/data/full dataset/train/images/image50.png,801,845,994,925,wheel
+/home/carbor/data/full dataset/train/images/image50.png,1058,848,1278,943,wheel
+/home/carbor/data/full dataset/train/images/image50.png,522,578,1387,841,tipping body
+/home/carbor/data/full dataset/train/images/image106.png,973,870,1188,1080,wheel
+/home/carbor/data/full dataset/train/images/image106.png,1443,826,1601,1018,wheel
+/home/carbor/data/full dataset/train/images/image106.png,1586,806,1728,989,wheel
+/home/carbor/data/full dataset/train/images/image106.png,1372,355,1789,849,tipping body
+/home/carbor/data/full dataset/train/images/image106.png,946,648,1147,856,cab
+/home/carbor/data/full dataset/train/images/image148.png,1672,870,1889,1080,wheel
+/home/carbor/data/full dataset/train/images/image148.png,1439,635,1920,872,tipping body
+/home/carbor/data/full dataset/train/images/image321.png,813,726,983,891,cab
+/home/carbor/data/full dataset/train/images/image321.png,1049,725,1604,889,tipping body
+/home/carbor/data/full dataset/train/images/image321.png,1448,899,1549,1002,wheel
+/home/carbor/data/full dataset/train/images/image49.png,396,568,607,743,cab
+/home/carbor/data/full dataset/train/images/image49.png,368,760,553,945,wheel
+/home/carbor/data/full dataset/train/images/image49.png,821,781,1014,914,wheel
+/home/carbor/data/full dataset/train/images/image49.png,1019,778,1221,925,wheel
+/home/carbor/data/full dataset/train/images/image49.png,622,566,1299,765,tipping body
+/home/carbor/data/full dataset/train/images/image68.png,711,560,1214,714,tipping body
+/home/carbor/data/full dataset/train/images/image68.png,858,716,999,869,wheel
+/home/carbor/data/full dataset/train/images/image68.png,1002,718,1153,865,wheel
+/home/carbor/data/full dataset/train/images/image68.png,514,695,652,844,wheel
+/home/carbor/data/full dataset/train/images/image68.png,537,561,688,685,cab
+/home/carbor/data/full dataset/train/images/image116.png,534,566,1247,863,tipping body
+/home/carbor/data/full dataset/train/images/image116.png,778,861,992,1019,wheel
+/home/carbor/data/full dataset/train/images/image116.png,607,808,779,1015,wheel
+/home/carbor/data/full dataset/train/images/image116.png,408,716,524,885,wheel
+/home/carbor/data/full dataset/train/images/image116.png,1026,811,1167,983,wheel
+/home/carbor/data/full dataset/train/images/image116.png,471,566,559,693,cab
+/home/carbor/data/full dataset/train/images/image7.png,662,736,777,899,wheel
+/home/carbor/data/full dataset/train/images/image7.png,156,819,378,1039,wheel
+/home/carbor/data/full dataset/train/images/image7.png,2,848,155,1080,wheel
+/home/carbor/data/full dataset/train/images/image7.png,1,244,318,828,tipping body
+/home/carbor/data/full dataset/train/images/image7.png,546,576,704,738,cab
+/home/carbor/data/full dataset/train/images/image53.png,526,556,672,670,cab
+/home/carbor/data/full dataset/train/images/image53.png,512,694,647,833,wheel
+/home/carbor/data/full dataset/train/images/image53.png,849,710,991,851,wheel
+/home/carbor/data/full dataset/train/images/image53.png,998,710,1139,853,wheel
+/home/carbor/data/full dataset/train/images/image53.png,709,553,1202,708,tipping body
+/home/carbor/data/full dataset/train/images/image10.png,1051,769,1182,960,wheel
+/home/carbor/data/full dataset/train/images/image10.png,442,854,694,1079,wheel
+/home/carbor/data/full dataset/train/images/image10.png,179,871,432,1080,wheel
+/home/carbor/data/full dataset/train/images/image10.png,1,185,646,986,tipping body
+/home/carbor/data/full dataset/train/images/image10.png,928,576,1099,749,cab
+/home/carbor/data/full dataset/train/images/image310.png,1051,482,1127,563,wheel
+/home/carbor/data/full dataset/train/images/image310.png,967,468,1044,540,wheel
+/home/carbor/data/full dataset/train/images/image310.png,775,471,848,549,wheel
+/home/carbor/data/full dataset/train/images/image310.png,775,381,864,456,cab
+/home/carbor/data/full dataset/train/images/image310.png,885,380,1165,474,tipping body
+/home/carbor/data/full dataset/train/images/image130.png,193,834,394,1075,wheel
+/home/carbor/data/full dataset/train/images/image130.png,243,585,479,824,cab
+/home/carbor/data/full dataset/train/images/image209.png,511,416,658,558,wheel
+/home/carbor/data/full dataset/train/images/image209.png,862,419,1009,574,wheel
+/home/carbor/data/full dataset/train/images/image209.png,1012,424,1167,574,wheel
+/home/carbor/data/full dataset/train/images/image209.png,512,264,674,396,cab
+/home/carbor/data/full dataset/train/images/image209.png,703,259,1237,416,tipping body
+/home/carbor/data/full dataset/train/images/image231.png,896,570,964,625,cab
+/home/carbor/data/full dataset/train/images/image231.png,951,628,993,685,wheel
+/home/carbor/data/full dataset/train/images/image231.png,1049,624,1100,675,wheel
+/home/carbor/data/full dataset/train/images/image231.png,1096,621,1150,671,wheel
+/home/carbor/data/full dataset/train/images/image231.png,972,569,1169,623,tipping body
+/home/carbor/data/full dataset/train/images/image63.png,409,581,628,776,cab
+/home/carbor/data/full dataset/train/images/image63.png,383,799,592,1003,wheel
+/home/carbor/data/full dataset/train/images/image63.png,899,803,1113,935,wheel
+/home/carbor/data/full dataset/train/images/image63.png,1112,796,1329,950,wheel
+/home/carbor/data/full dataset/train/images/image63.png,676,573,1407,790,tipping body
+/home/carbor/data/full dataset/train/images/image115.png,534,571,1251,861,tipping body
+/home/carbor/data/full dataset/train/images/image115.png,607,805,786,981,wheel
+/home/carbor/data/full dataset/train/images/image115.png,411,716,526,884,wheel
+/home/carbor/data/full dataset/train/images/image115.png,474,561,558,685,cab
+/home/carbor/data/full dataset/train/images/image221.png,1034,593,1085,640,wheel
+/home/carbor/data/full dataset/train/images/image221.png,939,584,979,627,wheel
+/home/carbor/data/full dataset/train/images/image221.png,912,582,945,626,wheel
+/home/carbor/data/full dataset/train/images/image221.png,1044,537,1113,583,cab
+/home/carbor/data/full dataset/train/images/image221.png,893,462,1015,595,tipping body
+/home/carbor/data/full dataset/train/images/image146.png,996,603,1301,779,cab
+/home/carbor/data/full dataset/train/images/image146.png,1339,599,1920,867,tipping body
+/home/carbor/data/full dataset/train/images/image146.png,1679,871,1894,1076,wheel
+/home/carbor/data/full dataset/train/images/image316.png,939,499,1182,575,tipping body
+/home/carbor/data/full dataset/train/images/image316.png,1091,589,1155,659,wheel
+/home/carbor/data/full dataset/train/images/image316.png,1023,577,1088,639,wheel
+/home/carbor/data/full dataset/train/images/image316.png,853,585,925,655,wheel
+/home/carbor/data/full dataset/train/images/image316.png,842,501,915,569,cab
+/home/carbor/data/full dataset/train/images/image78.png,1556,594,1793,825,cab
+/home/carbor/data/full dataset/train/images/image78.png,564,584,1532,878,tipping body
+/home/carbor/data/full dataset/train/images/image78.png,672,889,948,1080,wheel
+/home/carbor/data/full dataset/train/images/image78.png,959,895,1241,1080,wheel
+/home/carbor/data/full dataset/train/images/image78.png,1629,859,1838,1080,wheel
+/home/carbor/data/full dataset/train/images/image289.png,1287,562,1356,620,cab
+/home/carbor/data/full dataset/train/images/image289.png,1299,629,1359,691,wheel
+/home/carbor/data/full dataset/train/images/image289.png,1147,627,1206,691,wheel
+/home/carbor/data/full dataset/train/images/image289.png,1082,627,1142,689,wheel
+/home/carbor/data/full dataset/train/images/image289.png,1050,562,1271,626,tipping body
+/home/carbor/data/full dataset/train/images/image297.png,1149,590,1283,714,cab
+/home/carbor/data/full dataset/train/images/image297.png,1189,745,1303,863,wheel
+/home/carbor/data/full dataset/train/images/image297.png,843,755,987,905,wheel
+/home/carbor/data/full dataset/train/images/image297.png,692,769,837,911,wheel
+/home/carbor/data/full dataset/train/images/image297.png,629,598,1118,763,tipping body
+/home/carbor/data/full dataset/train/images/image235.png,478,551,723,794,cab
+/home/carbor/data/full dataset/train/images/image235.png,603,806,807,1019,wheel
+/home/carbor/data/full dataset/train/images/image235.png,1009,763,1207,951,wheel
+/home/carbor/data/full dataset/train/images/image235.png,1194,741,1361,920,wheel
+/home/carbor/data/full dataset/train/images/image235.png,787,541,1417,760,tipping body
+/home/carbor/data/full dataset/train/images/image140.png,1286,574,1919,788,tipping body
+/home/carbor/data/full dataset/train/images/image140.png,1731,788,1902,996,wheel
+/home/carbor/data/full dataset/train/images/image140.png,1556,800,1734,1020,wheel
+/home/carbor/data/full dataset/train/images/image140.png,1034,850,1276,1069,wheel
+/home/carbor/data/full dataset/train/images/image140.png,994,575,1237,803,cab
+/home/carbor/data/full dataset/train/images/image8.png,736,579,907,771,cab
+/home/carbor/data/full dataset/train/images/image8.png,844,778,988,981,wheel
+/home/carbor/data/full dataset/train/images/image8.png,227,878,481,1080,wheel
+/home/carbor/data/full dataset/train/images/image8.png,1,885,223,1080,wheel
+/home/carbor/data/full dataset/train/images/image8.png,1,179,414,856,tipping body
+/home/carbor/data/full dataset/train/images/image125.png,464,589,1429,871,tipping body
+/home/carbor/data/full dataset/train/images/image125.png,191,849,407,1074,wheel
+/home/carbor/data/full dataset/train/images/image125.png,238,591,453,818,cab
+/home/carbor/data/full dataset/train/images/image239.png,443,964,702,1080,wheel
+/home/carbor/data/full dataset/train/images/image239.png,286,615,581,896,cab
+/home/carbor/data/full dataset/train/images/image239.png,681,589,1477,759,tipping body
+/home/carbor/data/full dataset/train/images/image319.png,881,865,1022,981,wheel
+/home/carbor/data/full dataset/train/images/image319.png,1224,848,1351,976,wheel
+/home/carbor/data/full dataset/train/images/image319.png,1346,856,1466,996,wheel
+/home/carbor/data/full dataset/train/images/image319.png,876,695,1009,816,cab
+/home/carbor/data/full dataset/train/images/image319.png,1064,700,1516,840,tipping body
+/home/carbor/data/full dataset/train/images/image283.png,971,619,1257,863,cab
+/home/carbor/data/full dataset/train/images/image283.png,576,789,707,944,wheel
+/home/carbor/data/full dataset/train/images/image283.png,508,769,602,920,wheel
+/home/carbor/data/full dataset/train/images/image283.png,493,619,968,781,tipping body
+/home/carbor/data/full dataset/train/images/image108.png,541,633,624,728,wheel
+/home/carbor/data/full dataset/train/images/image108.png,701,659,794,765,wheel
+/home/carbor/data/full dataset/train/images/image108.png,783,670,891,785,wheel
+/home/carbor/data/full dataset/train/images/image108.png,898,650,973,745,wheel
+/home/carbor/data/full dataset/train/images/image108.png,637,546,1004,655,tipping body
+/home/carbor/data/full dataset/train/images/image108.png,569,543,643,620,cab
+/home/carbor/data/full dataset/train/images/image293.png,904,565,1028,680,cab
+/home/carbor/data/full dataset/train/images/image293.png,946,710,1048,826,wheel
+/home/carbor/data/full dataset/train/images/image293.png,599,725,742,873,wheel
+/home/carbor/data/full dataset/train/images/image293.png,452,736,594,884,wheel
+/home/carbor/data/full dataset/train/images/image293.png,378,569,872,734,tipping body
+/home/carbor/data/full dataset/train/images/image237.png,273,621,586,931,cab
+/home/carbor/data/full dataset/train/images/image237.png,431,951,674,1080,wheel
+/home/carbor/data/full dataset/train/images/image237.png,1217,809,1401,999,wheel
+/home/carbor/data/full dataset/train/images/image237.png,672,586,1469,813,tipping body
+/home/carbor/data/full dataset/train/images/image328.png,646,721,761,809,wheel
+/home/carbor/data/full dataset/train/images/image328.png,972,700,1074,801,wheel
+/home/carbor/data/full dataset/train/images/image328.png,1058,691,1147,794,wheel
+/home/carbor/data/full dataset/train/images/image328.png,638,580,773,695,cab
+/home/carbor/data/full dataset/train/images/image328.png,791,584,1173,699,tipping body
+/home/carbor/data/full dataset/train/images/image242.png,207,646,543,996,cab
+/home/carbor/data/full dataset/train/images/image242.png,1211,850,1432,1071,wheel
+/home/carbor/data/full dataset/train/images/image233.png,870,551,970,646,cab
+/home/carbor/data/full dataset/train/images/image233.png,948,655,1016,739,wheel
+/home/carbor/data/full dataset/train/images/image233.png,1101,642,1185,727,wheel
+/home/carbor/data/full dataset/train/images/image233.png,1182,634,1262,720,wheel
+/home/carbor/data/full dataset/train/images/image233.png,982,549,1289,638,tipping body
+/home/carbor/data/full dataset/train/images/image196.png,963,655,997,694,wheel
+/home/carbor/data/full dataset/train/images/image196.png,1033,653,1069,692,wheel
+/home/carbor/data/full dataset/train/images/image196.png,1067,650,1100,689,wheel
+/home/carbor/data/full dataset/train/images/image196.png,926,615,975,652,cab
+/home/carbor/data/full dataset/train/images/image196.png,971,614,1109,653,tipping body
+/home/carbor/data/full dataset/train/images/image300.png,289,591,1112,876,tipping body
+/home/carbor/data/full dataset/train/images/image300.png,402,875,637,1079,wheel
+/home/carbor/data/full dataset/train/images/image300.png,1234,811,1403,1000,wheel
+/home/carbor/data/full dataset/train/images/image300.png,1152,573,1364,784,cab
+/home/carbor/data/full dataset/train/images/image33.png,1073,661,1134,751,wheel
+/home/carbor/data/full dataset/train/images/image33.png,978,699,1052,810,wheel
+/home/carbor/data/full dataset/train/images/image33.png,918,720,1012,845,wheel
+/home/carbor/data/full dataset/train/images/image33.png,762,705,843,820,wheel
+/home/carbor/data/full dataset/train/images/image33.png,738,579,1077,708,tipping body
+/home/carbor/data/full dataset/train/images/image81.png,104,631,638,823,tipping body
+/home/carbor/data/full dataset/train/images/image81.png,133,783,261,949,wheel
+/home/carbor/data/full dataset/train/images/image81.png,251,805,403,981,wheel
+/home/carbor/data/full dataset/train/images/image81.png,597,869,786,1056,wheel
+/home/carbor/data/full dataset/train/images/image81.png,656,640,889,835,cab
+/home/carbor/data/full dataset/train/images/image204.png,848,346,907,398,wheel
+/home/carbor/data/full dataset/train/images/image204.png,985,337,1040,390,wheel
+/home/carbor/data/full dataset/train/images/image204.png,1041,333,1096,387,wheel
+/home/carbor/data/full dataset/train/images/image204.png,840,288,905,342,cab
+/home/carbor/data/full dataset/train/images/image204.png,920,287,1116,330,tipping body
+/home/carbor/data/full dataset/train/images/image129.png,228,586,474,799,cab
+/home/carbor/data/full dataset/train/images/image129.png,187,845,408,1071,wheel
+/home/carbor/data/full dataset/train/images/image40.png,718,554,1203,704,tipping body
+/home/carbor/data/full dataset/train/images/image40.png,531,558,691,679,cab
+/home/carbor/data/full dataset/train/images/image40.png,522,693,658,836,wheel
+/home/carbor/data/full dataset/train/images/image40.png,861,706,1004,848,wheel
+/home/carbor/data/full dataset/train/images/image40.png,1004,704,1146,850,wheel
+/home/carbor/data/full dataset/train/images/image212.png,408,296,1391,581,tipping body
+/home/carbor/data/full dataset/train/images/image212.png,182,599,389,808,wheel
+/home/carbor/data/full dataset/train/images/image212.png,711,581,948,713,wheel
+/home/carbor/data/full dataset/train/images/image212.png,1003,578,1259,686,wheel
+/home/carbor/data/full dataset/train/images/image212.png,159,311,411,569,cab
+/home/carbor/data/full dataset/train/images/image98.png,389,645,622,863,cab
+/home/carbor/data/full dataset/train/images/image98.png,313,864,498,1074,wheel
+/home/carbor/data/full dataset/train/images/image98.png,811,955,1089,1080,wheel
+/home/carbor/data/full dataset/train/images/image98.png,1103,975,1381,1080,wheel
+/home/carbor/data/full dataset/train/images/image98.png,862,220,1589,1080,tipping body
+/home/carbor/data/full dataset/train/images/image270.png,1,506,591,751,tipping body
+/home/carbor/data/full dataset/train/images/image270.png,1,749,102,965,wheel
+/home/carbor/data/full dataset/train/images/image270.png,91,765,292,998,wheel
+/home/carbor/data/full dataset/train/images/image270.png,626,521,909,781,cab
+/home/carbor/data/full dataset/train/images/image85.png,806,619,942,743,cab
+/home/carbor/data/full dataset/train/images/image85.png,776,739,904,869,wheel
+/home/carbor/data/full dataset/train/images/image85.png,526,725,626,840,wheel
+/home/carbor/data/full dataset/train/images/image85.png,428,718,528,826,wheel
+/home/carbor/data/full dataset/train/images/image85.png,397,613,788,719,tipping body
+/home/carbor/data/full dataset/train/images/image287.png,576,860,662,958,wheel
+/home/carbor/data/full dataset/train/images/image287.png,519,855,576,920,wheel
+/home/carbor/data/full dataset/train/images/image74.png,776,556,1291,708,tipping body
+/home/carbor/data/full dataset/train/images/image74.png,833,716,978,868,wheel
+/home/carbor/data/full dataset/train/images/image74.png,981,720,1136,873,wheel
+/home/carbor/data/full dataset/train/images/image74.png,1343,709,1499,866,wheel
+/home/carbor/data/full dataset/train/images/image74.png,1333,563,1478,693,cab
+/home/carbor/data/full dataset/train/images/image208.png,797,266,1147,356,tipping body
+/home/carbor/data/full dataset/train/images/image208.png,1008,360,1109,461,wheel
+/home/carbor/data/full dataset/train/images/image208.png,907,364,1008,468,wheel
+/home/carbor/data/full dataset/train/images/image208.png,663,368,768,466,wheel
+/home/carbor/data/full dataset/train/images/image208.png,659,274,773,360,cab
+/home/carbor/data/full dataset/train/images/image311.png,944,419,1338,545,tipping body
+/home/carbor/data/full dataset/train/images/image311.png,1056,544,1167,648,wheel
+/home/carbor/data/full dataset/train/images/image311.png,1164,565,1282,680,wheel
+/home/carbor/data/full dataset/train/images/image311.png,794,551,896,651,wheel
+/home/carbor/data/full dataset/train/images/image311.png,803,421,922,524,cab
+/home/carbor/data/full dataset/train/images/image123.png,464,585,1424,883,tipping body
+/home/carbor/data/full dataset/train/images/image123.png,727,894,1002,1080,wheel
+/home/carbor/data/full dataset/train/images/image123.png,1021,900,1297,1080,wheel
+/home/carbor/data/full dataset/train/images/image123.png,188,841,412,1074,wheel
+/home/carbor/data/full dataset/train/images/image123.png,239,589,449,821,cab
+/home/carbor/data/full dataset/train/images/image82.png,53,873,232,1078,wheel
+/home/carbor/data/full dataset/train/images/image82.png,1,660,554,874,tipping body
+/home/carbor/data/full dataset/train/images/image82.png,529,670,841,945,cab
+/home/carbor/data/full dataset/train/images/image62.png,614,558,771,681,cab
+/home/carbor/data/full dataset/train/images/image62.png,609,699,748,838,wheel
+/home/carbor/data/full dataset/train/images/image62.png,953,701,1093,841,wheel
+/home/carbor/data/full dataset/train/images/image62.png,1094,698,1234,836,wheel
+/home/carbor/data/full dataset/train/images/image62.png,814,558,1283,696,tipping body
+/home/carbor/data/full dataset/train/images/image302.png,237,584,1109,861,tipping body
+/home/carbor/data/full dataset/train/images/image302.png,356,875,578,1080,wheel
+/home/carbor/data/full dataset/train/images/image302.png,1223,820,1406,1015,wheel
+/home/carbor/data/full dataset/train/images/image302.png,1149,579,1376,799,cab
+/home/carbor/data/full dataset/train/images/image268.png,891,721,1058,880,wheel
+/home/carbor/data/full dataset/train/images/image268.png,523,696,662,844,wheel
+/home/carbor/data/full dataset/train/images/image268.png,404,691,524,823,wheel
+/home/carbor/data/full dataset/train/images/image268.png,359,544,861,688,tipping body
+/home/carbor/data/full dataset/train/images/image268.png,884,550,1074,691,cab
+/home/carbor/data/full dataset/train/images/image286.png,571,853,669,964,wheel
+/home/carbor/data/full dataset/train/images/image286.png,516,853,564,914,wheel
+/home/carbor/data/full dataset/train/images/image329.png,639,674,862,843,cab
+/home/carbor/data/full dataset/train/images/image329.png,897,666,1491,819,tipping body
+/home/carbor/data/full dataset/train/images/image329.png,1348,824,1459,974,wheel
+/home/carbor/data/full dataset/train/images/image236.png,668,590,1454,828,tipping body
+/home/carbor/data/full dataset/train/images/image236.png,1188,813,1394,1021,wheel
+/home/carbor/data/full dataset/train/images/image236.png,964,846,1207,988,wheel
+/home/carbor/data/full dataset/train/images/image236.png,442,951,700,1080,wheel
+/home/carbor/data/full dataset/train/images/image236.png,269,606,582,926,cab
+/home/carbor/data/full dataset/train/images/image13.png,1191,688,1291,811,wheel
+/home/carbor/data/full dataset/train/images/image13.png,821,715,972,861,wheel
+/home/carbor/data/full dataset/train/images/image13.png,668,721,822,874,wheel
+/home/carbor/data/full dataset/train/images/image13.png,571,319,949,786,tipping body
+/home/carbor/data/full dataset/train/images/image13.png,1119,551,1247,673,cab
+/home/carbor/data/full dataset/train/images/image147.png,1338,600,1920,861,tipping body
+/home/carbor/data/full dataset/train/images/image147.png,1672,869,1907,1080,wheel
+/home/carbor/data/full dataset/train/images/image147.png,1170,981,1357,1080,wheel
+/home/carbor/data/full dataset/train/images/image48.png,547,555,694,673,cab
+/home/carbor/data/full dataset/train/images/image48.png,533,690,664,828,wheel
+/home/carbor/data/full dataset/train/images/image48.png,863,696,998,836,wheel
+/home/carbor/data/full dataset/train/images/image48.png,1003,699,1143,838,wheel
+/home/carbor/data/full dataset/train/images/image48.png,722,550,1202,689,tipping body
+/home/carbor/data/full dataset/train/images/image113.png,532,576,1254,869,tipping body
+/home/carbor/data/full dataset/train/images/image113.png,613,813,792,978,wheel
+/home/carbor/data/full dataset/train/images/image113.png,408,719,534,894,wheel
+/home/carbor/data/full dataset/train/images/image113.png,476,570,561,710,cab
+/home/carbor/data/full dataset/train/images/image11.png,1157,559,1294,685,cab
+/home/carbor/data/full dataset/train/images/image11.png,1244,708,1349,854,wheel
+/home/carbor/data/full dataset/train/images/image11.png,827,745,997,916,wheel
+/home/carbor/data/full dataset/train/images/image11.png,652,755,821,930,wheel
+/home/carbor/data/full dataset/train/images/image11.png,528,293,963,823,tipping body
+/home/carbor/data/full dataset/train/images/image121.png,891,695,1027,841,wheel
+/home/carbor/data/full dataset/train/images/image121.png,1029,698,1172,843,wheel
+/home/carbor/data/full dataset/train/images/image121.png,579,685,706,819,wheel
+/home/carbor/data/full dataset/train/images/image121.png,587,554,722,668,cab
+/home/carbor/data/full dataset/train/images/image121.png,754,551,1233,690,tipping body
+/home/carbor/data/full dataset/train/images/image227.png,1196,646,1471,934,cab
+/home/carbor/data/full dataset/train/images/image227.png,722,798,869,983,wheel
+/home/carbor/data/full dataset/train/images/image227.png,647,770,754,934,wheel
+/home/carbor/data/full dataset/train/images/image227.png,609,325,1007,791,tipping body
+/home/carbor/data/full dataset/train/images/image227.png,932,756,1057,833,wheel
+/home/carbor/data/full dataset/train/images/image227.png,1136,959,1386,1080,wheel
+/home/carbor/data/full dataset/train/images/image215.png,743,615,944,666,tipping body
+/home/carbor/data/full dataset/train/images/image215.png,754,665,806,720,wheel
+/home/carbor/data/full dataset/train/images/image215.png,803,667,856,724,wheel
+/home/carbor/data/full dataset/train/images/image215.png,938,676,997,740,wheel
+/home/carbor/data/full dataset/train/images/image215.png,950,613,1020,672,cab
+/home/carbor/data/full dataset/train/images/image75.png,702,849,954,1078,wheel
+/home/carbor/data/full dataset/train/images/image75.png,966,855,1218,1079,wheel
+/home/carbor/data/full dataset/train/images/image75.png,1574,834,1772,1060,wheel
+/home/carbor/data/full dataset/train/images/image75.png,589,575,1482,838,tipping body
+/home/carbor/data/full dataset/train/images/image75.png,1519,583,1743,813,cab
+/home/carbor/data/full dataset/train/images/image144.png,999,601,1286,883,cab
+/home/carbor/data/full dataset/train/images/image144.png,1338,596,1920,867,tipping body
+/home/carbor/data/full dataset/train/images/image144.png,1691,870,1900,1080,wheel
+/home/carbor/data/full dataset/train/images/image280.png,944,624,1208,849,cab
+/home/carbor/data/full dataset/train/images/image280.png,874,890,1084,1080,wheel
+/home/carbor/data/full dataset/train/images/image280.png,587,790,707,943,wheel
+/home/carbor/data/full dataset/train/images/image280.png,521,773,602,926,wheel
+/home/carbor/data/full dataset/train/images/image280.png,503,629,938,789,tipping body
+/home/carbor/data/full dataset/train/images/image52.png,182,599,457,853,cab
+/home/carbor/data/full dataset/train/images/image52.png,126,869,352,1080,wheel
+/home/carbor/data/full dataset/train/images/image52.png,427,591,1488,925,tipping body
+/home/carbor/data/full dataset/train/images/image136.png,1004,638,1101,738,wheel
+/home/carbor/data/full dataset/train/images/image136.png,1234,636,1324,734,wheel
+/home/carbor/data/full dataset/train/images/image136.png,1325,637,1419,731,wheel
+/home/carbor/data/full dataset/train/images/image136.png,985,539,1088,621,cab
+/home/carbor/data/full dataset/train/images/image136.png,1119,538,1452,632,tipping body
+/home/carbor/data/full dataset/train/images/image322.png,847,953,1024,1080,wheel
+/home/carbor/data/full dataset/train/images/image322.png,837,740,1011,910,cab
+/home/carbor/data/full dataset/train/images/image322.png,1068,744,1622,924,tipping body
+/home/carbor/data/full dataset/train/images/image304.png,1127,564,1318,778,cab
+/home/carbor/data/full dataset/train/images/image304.png,1204,806,1368,993,wheel
+/home/carbor/data/full dataset/train/images/image304.png,222,578,1076,829,tipping body
+/home/carbor/data/full dataset/train/images/image97.png,441,636,656,858,cab
+/home/carbor/data/full dataset/train/images/image97.png,376,848,533,1048,wheel
+/home/carbor/data/full dataset/train/images/image97.png,833,916,1087,1080,wheel
+/home/carbor/data/full dataset/train/images/image97.png,1101,935,1360,1080,wheel
+/home/carbor/data/full dataset/train/images/image97.png,891,261,1532,1051,tipping body
+/home/carbor/data/full dataset/train/images/image222.png,1036,593,1084,641,wheel
+/home/carbor/data/full dataset/train/images/image222.png,939,585,981,627,wheel
+/home/carbor/data/full dataset/train/images/image222.png,911,585,943,623,wheel
+/home/carbor/data/full dataset/train/images/image222.png,1041,539,1114,585,cab
+/home/carbor/data/full dataset/train/images/image222.png,895,460,1017,594,tipping body
+/home/carbor/data/full dataset/train/images/image118.png,961,620,1038,703,wheel
+/home/carbor/data/full dataset/train/images/image118.png,1044,624,1123,704,wheel
+/home/carbor/data/full dataset/train/images/image118.png,766,610,848,696,wheel
+/home/carbor/data/full dataset/train/images/image118.png,874,535,1157,621,tipping body
+/home/carbor/data/full dataset/train/images/image118.png,763,536,858,606,cab
+/home/carbor/data/full dataset/train/images/image299.png,183,585,1037,866,tipping body
+/home/carbor/data/full dataset/train/images/image299.png,307,885,537,1075,wheel
+/home/carbor/data/full dataset/train/images/image299.png,1167,813,1334,1008,wheel
+/home/carbor/data/full dataset/train/images/image299.png,1083,575,1303,786,cab
+/home/carbor/data/full dataset/train/images/image47.png,542,555,701,674,cab
+/home/carbor/data/full dataset/train/images/image47.png,531,691,664,824,wheel
+/home/carbor/data/full dataset/train/images/image47.png,867,698,998,836,wheel
+/home/carbor/data/full dataset/train/images/image47.png,1004,700,1143,836,wheel
+/home/carbor/data/full dataset/train/images/image47.png,727,550,1199,693,tipping body
+/home/carbor/data/full dataset/train/images/image9.png,922,773,1076,971,wheel
+/home/carbor/data/full dataset/train/images/image9.png,818,576,997,758,cab
+/home/carbor/data/full dataset/train/images/image9.png,322,861,571,1080,wheel
+/home/carbor/data/full dataset/train/images/image9.png,52,883,321,1080,wheel
+/home/carbor/data/full dataset/train/images/image9.png,1,180,522,955,tipping body
+/home/carbor/data/full dataset/train/images/image211.png,171,311,436,600,cab
+/home/carbor/data/full dataset/train/images/image211.png,164,610,373,823,wheel
+/home/carbor/data/full dataset/train/images/image211.png,708,588,956,763,wheel
+/home/carbor/data/full dataset/train/images/image211.png,972,588,1252,745,wheel
+/home/carbor/data/full dataset/train/images/image211.png,412,298,1387,571,tipping body
+/home/carbor/data/full dataset/train/images/image89.png,1002,405,1348,840,tipping body
+/home/carbor/data/full dataset/train/images/image89.png,1118,776,1256,916,wheel
+/home/carbor/data/full dataset/train/images/image89.png,973,766,1113,908,wheel
+/home/carbor/data/full dataset/train/images/image89.png,669,736,778,868,wheel
+/home/carbor/data/full dataset/train/images/image89.png,687,618,841,734,cab
+/home/carbor/data/full dataset/train/images/image234.png,818,595,1232,709,tipping body
+/home/carbor/data/full dataset/train/images/image234.png,1091,704,1196,818,wheel
+/home/carbor/data/full dataset/train/images/image234.png,979,718,1095,835,wheel
+/home/carbor/data/full dataset/train/images/image234.png,754,741,860,864,wheel
+/home/carbor/data/full dataset/train/images/image234.png,649,597,804,734,cab
+/home/carbor/data/full dataset/train/images/image23.png,679,221,1238,890,tipping body
+/home/carbor/data/full dataset/train/images/image23.png,1578,763,1713,956,cab
+/home/carbor/data/full dataset/train/images/image23.png,1462,575,1646,741,cab
+/home/carbor/data/full dataset/train/images/image93.png,327,646,577,898,cab
+/home/carbor/data/full dataset/train/images/image93.png,247,890,404,1080,wheel
+/home/carbor/data/full dataset/train/images/image93.png,842,171,1663,1080,tipping body
+/home/carbor/data/full dataset/train/images/image205.png,854,349,907,400,wheel
+/home/carbor/data/full dataset/train/images/image205.png,988,341,1042,393,wheel
+/home/carbor/data/full dataset/train/images/image205.png,1043,336,1098,388,wheel
+/home/carbor/data/full dataset/train/images/image205.png,845,291,907,339,cab
+/home/carbor/data/full dataset/train/images/image205.png,926,290,1117,331,tipping body
+/home/carbor/data/full dataset/train/images/image20.png,1467,570,1646,766,cab
+/home/carbor/data/full dataset/train/images/image20.png,1571,758,1709,961,wheel
+/home/carbor/data/full dataset/train/images/image20.png,1044,803,1268,1034,wheel
+/home/carbor/data/full dataset/train/images/image20.png,822,810,1036,1030,wheel
+/home/carbor/data/full dataset/train/images/image20.png,678,224,1237,894,tipping body
+/home/carbor/data/full dataset/train/images/image67.png,594,548,731,655,cab
+/home/carbor/data/full dataset/train/images/image67.png,581,674,699,796,wheel
+/home/carbor/data/full dataset/train/images/image67.png,882,680,1004,808,wheel
+/home/carbor/data/full dataset/train/images/image67.png,1006,684,1134,813,wheel
+/home/carbor/data/full dataset/train/images/image67.png,754,548,1186,679,tipping body
+/home/carbor/data/full dataset/train/images/image137.png,1121,538,1452,635,tipping body
+/home/carbor/data/full dataset/train/images/image137.png,1328,636,1419,731,wheel
+/home/carbor/data/full dataset/train/images/image137.png,1232,636,1324,731,wheel
+/home/carbor/data/full dataset/train/images/image137.png,1003,636,1100,739,wheel
+/home/carbor/data/full dataset/train/images/image137.png,983,537,1085,625,cab
+/home/carbor/data/full dataset/train/images/image19.png,1459,570,1642,763,cab
+/home/carbor/data/full dataset/train/images/image19.png,1571,769,1708,960,wheel
+/home/carbor/data/full dataset/train/images/image19.png,1047,803,1262,1026,wheel
+/home/carbor/data/full dataset/train/images/image19.png,816,805,1039,1026,wheel
+/home/carbor/data/full dataset/train/images/image19.png,677,219,1241,888,tipping body
+/home/carbor/data/full dataset/train/images/image35.png,681,583,1112,745,tipping body
+/home/carbor/data/full dataset/train/images/image35.png,718,745,817,886,wheel
+/home/carbor/data/full dataset/train/images/image35.png,913,766,1031,934,wheel
+/home/carbor/data/full dataset/train/images/image35.png,997,736,1086,888,wheel
+/home/carbor/data/full dataset/train/images/image35.png,1117,685,1181,801,wheel
+/home/carbor/data/full dataset/train/images/image109.png,574,546,651,620,cab
+/home/carbor/data/full dataset/train/images/image109.png,543,634,624,730,wheel
+/home/carbor/data/full dataset/train/images/image109.png,702,659,792,764,wheel
+/home/carbor/data/full dataset/train/images/image109.png,788,669,887,780,wheel
+/home/carbor/data/full dataset/train/images/image109.png,892,648,972,743,wheel
+/home/carbor/data/full dataset/train/images/image109.png,641,549,1009,655,tipping body
+/home/carbor/data/full dataset/train/images/image30.png,798,659,848,741,wheel
+/home/carbor/data/full dataset/train/images/image30.png,871,689,940,800,wheel
+/home/carbor/data/full dataset/train/images/image30.png,928,703,1015,821,wheel
+/home/carbor/data/full dataset/train/images/image30.png,844,576,1174,692,tipping body
+/home/carbor/data/full dataset/train/images/image30.png,1062,693,1154,793,wheel
+/home/carbor/data/full dataset/train/images/image105.png,1004,783,1148,939,wheel
+/home/carbor/data/full dataset/train/images/image105.png,1347,768,1467,899,wheel
+/home/carbor/data/full dataset/train/images/image105.png,1468,758,1578,885,wheel
+/home/carbor/data/full dataset/train/images/image105.png,982,630,1119,761,cab
+/home/carbor/data/full dataset/train/images/image105.png,1294,415,1637,791,tipping body
+/home/carbor/data/full dataset/train/images/image313.png,642,406,788,539,cab
+/home/carbor/data/full dataset/train/images/image313.png,637,558,766,684,wheel
+/home/carbor/data/full dataset/train/images/image313.png,959,555,1108,688,wheel
+/home/carbor/data/full dataset/train/images/image313.png,1103,580,1247,729,wheel
+/home/carbor/data/full dataset/train/images/image313.png,817,400,1316,561,tipping body
+/home/carbor/data/full dataset/train/images/image56.png,399,569,593,725,cab
+/home/carbor/data/full dataset/train/images/image56.png,372,745,536,921,wheel
+/home/carbor/data/full dataset/train/images/image56.png,789,764,968,915,wheel
+/home/carbor/data/full dataset/train/images/image56.png,983,771,1166,920,wheel
+/home/carbor/data/full dataset/train/images/image56.png,607,564,1243,758,tipping body
+/home/carbor/data/full dataset/train/images/image307.png,935,438,991,494,wheel
+/home/carbor/data/full dataset/train/images/image307.png,994,448,1051,508,wheel
+/home/carbor/data/full dataset/train/images/image307.png,790,445,843,499,wheel
+/home/carbor/data/full dataset/train/images/image307.png,786,376,850,436,cab
+/home/carbor/data/full dataset/train/images/image307.png,871,372,1076,438,tipping body
+/home/carbor/data/full dataset/train/images/image73.png,799,549,1267,693,tipping body
+/home/carbor/data/full dataset/train/images/image73.png,853,695,988,834,wheel
+/home/carbor/data/full dataset/train/images/image73.png,987,698,1132,830,wheel
+/home/carbor/data/full dataset/train/images/image73.png,1328,698,1458,828,wheel
+/home/carbor/data/full dataset/train/images/image73.png,1307,556,1454,684,cab
+/home/carbor/data/full dataset/train/images/image65.png,136,898,376,1080,wheel
+/home/carbor/data/full dataset/train/images/image65.png,192,604,486,894,cab
+/home/carbor/data/full dataset/train/images/image65.png,492,591,1558,915,tipping body
+/home/carbor/data/full dataset/train/images/image197.png,976,615,1108,654,tipping body
+/home/carbor/data/full dataset/train/images/image197.png,1067,651,1101,687,wheel
+/home/carbor/data/full dataset/train/images/image197.png,1032,653,1071,692,wheel
+/home/carbor/data/full dataset/train/images/image197.png,962,655,997,697,wheel
+/home/carbor/data/full dataset/train/images/image197.png,924,616,971,653,cab
+/home/carbor/data/full dataset/train/images/image273.png,1024,646,1056,684,wheel
+/home/carbor/data/full dataset/train/images/image273.png,961,645,995,678,wheel
+/home/carbor/data/full dataset/train/images/image273.png,939,643,964,678,wheel
+/home/carbor/data/full dataset/train/images/image273.png,1036,609,1083,642,cab
+/home/carbor/data/full dataset/train/images/image273.png,931,610,1034,641,tipping body
+/home/carbor/data/full dataset/train/images/image44.png,171,599,436,829,cab
+/home/carbor/data/full dataset/train/images/image44.png,111,871,347,1080,wheel
+/home/carbor/data/full dataset/train/images/image44.png,726,930,1028,1080,wheel
+/home/carbor/data/full dataset/train/images/image44.png,1042,936,1348,1080,wheel
+/home/carbor/data/full dataset/train/images/image44.png,418,593,1478,919,tipping body
+/home/carbor/data/full dataset/train/images/image80.png,414,615,794,730,tipping body
+/home/carbor/data/full dataset/train/images/image80.png,444,714,541,821,wheel
+/home/carbor/data/full dataset/train/images/image80.png,532,725,638,833,wheel
+/home/carbor/data/full dataset/train/images/image80.png,784,743,908,863,wheel
+/home/carbor/data/full dataset/train/images/image80.png,812,613,946,731,cab
+/home/carbor/data/full dataset/train/images/image131.png,243,589,484,808,cab
+/home/carbor/data/full dataset/train/images/image131.png,191,840,408,1074,wheel
+/home/carbor/data/full dataset/train/images/image101.png,666,794,811,963,wheel
+/home/carbor/data/full dataset/train/images/image101.png,1083,813,1243,980,wheel
+/home/carbor/data/full dataset/train/images/image101.png,1247,809,1414,975,wheel
+/home/carbor/data/full dataset/train/images/image101.png,679,638,864,795,cab
+/home/carbor/data/full dataset/train/images/image101.png,1084,379,1507,865,tipping body
+/home/carbor/data/full dataset/train/images/image18.png,1438,564,1582,716,cab
+/home/carbor/data/full dataset/train/images/image18.png,1516,733,1638,891,wheel
+/home/carbor/data/full dataset/train/images/image18.png,1074,753,1252,934,wheel
+/home/carbor/data/full dataset/train/images/image18.png,887,754,1061,935,wheel
+/home/carbor/data/full dataset/train/images/image18.png,774,280,1233,816,tipping body
+/home/carbor/data/full dataset/train/images/image200.png,1140,598,1353,655,tipping body
+/home/carbor/data/full dataset/train/images/image200.png,1291,658,1340,728,wheel
+/home/carbor/data/full dataset/train/images/image200.png,1230,663,1295,733,wheel
+/home/carbor/data/full dataset/train/images/image200.png,1121,668,1178,739,wheel
+/home/carbor/data/full dataset/train/images/image200.png,1056,599,1140,665,cab
+/home/carbor/data/full dataset/train/images/image138.png,1136,551,1507,659,tipping body
+/home/carbor/data/full dataset/train/images/image138.png,1364,661,1472,770,wheel
+/home/carbor/data/full dataset/train/images/image138.png,1264,663,1367,771,wheel
+/home/carbor/data/full dataset/train/images/image138.png,1009,671,1114,779,wheel
+/home/carbor/data/full dataset/train/images/image138.png,982,551,1099,654,cab
+/home/carbor/data/full dataset/train/images/image213.png,812,613,988,658,tipping body
+/home/carbor/data/full dataset/train/images/image213.png,822,658,868,704,wheel
+/home/carbor/data/full dataset/train/images/image213.png,865,658,914,710,wheel
+/home/carbor/data/full dataset/train/images/image213.png,984,666,1037,719,wheel
+/home/carbor/data/full dataset/train/images/image213.png,991,612,1052,663,cab
+/home/carbor/data/full dataset/train/images/image292.png,1090,743,1187,851,wheel
+/home/carbor/data/full dataset/train/images/image292.png,801,750,924,878,wheel
+/home/carbor/data/full dataset/train/images/image292.png,672,756,799,887,wheel
+/home/carbor/data/full dataset/train/images/image292.png,623,621,1037,736,tipping body
+/home/carbor/data/full dataset/train/images/image292.png,1052,620,1175,729,cab
+/home/carbor/data/full dataset/train/images/image64.png,194,609,488,879,cab
+/home/carbor/data/full dataset/train/images/image64.png,139,911,370,1080,wheel
+/home/carbor/data/full dataset/train/images/image64.png,489,598,1553,906,tipping body
+/home/carbor/data/full dataset/train/images/image57.png,166,596,406,814,cab
+/home/carbor/data/full dataset/train/images/image57.png,109,844,337,1078,wheel
+/home/carbor/data/full dataset/train/images/image57.png,387,590,1352,883,tipping body
+/home/carbor/data/full dataset/train/images/image103.png,476,660,752,915,cab
+/home/carbor/data/full dataset/train/images/image103.png,419,935,645,1080,wheel
+/home/carbor/data/full dataset/train/images/image103.png,1101,970,1362,1080,wheel
+/home/carbor/data/full dataset/train/images/image103.png,1367,945,1636,1080,wheel
+/home/carbor/data/full dataset/train/images/image103.png,1103,231,1777,1023,tipping body
+/home/carbor/data/full dataset/train/images/image206.png,915,223,1123,276,tipping body
+/home/carbor/data/full dataset/train/images/image206.png,1046,275,1101,329,wheel
+/home/carbor/data/full dataset/train/images/image206.png,984,279,1041,333,wheel
+/home/carbor/data/full dataset/train/images/image206.png,837,286,898,343,wheel
+/home/carbor/data/full dataset/train/images/image206.png,827,226,897,281,cab
+/home/carbor/data/full dataset/train/images/image132.png,106,875,311,1080,wheel
+/home/carbor/data/full dataset/train/images/image132.png,169,602,409,845,cab
+/home/carbor/data/full dataset/train/images/image132.png,416,679,1483,929,tipping body
+/home/carbor/data/full dataset/train/images/image202.png,766,666,1146,762,tipping body
+/home/carbor/data/full dataset/train/images/image202.png,1046,764,1129,873,wheel
+/home/carbor/data/full dataset/train/images/image202.png,963,781,1059,892,wheel
+/home/carbor/data/full dataset/train/images/image202.png,729,814,850,952,wheel
+/home/carbor/data/full dataset/train/images/image202.png,611,670,768,804,cab
+/home/carbor/data/full dataset/train/images/image100.png,732,754,866,891,wheel
+/home/carbor/data/full dataset/train/images/image100.png,1081,764,1214,903,wheel
+/home/carbor/data/full dataset/train/images/image100.png,1216,761,1357,900,wheel
+/home/carbor/data/full dataset/train/images/image100.png,744,623,896,748,cab
+/home/carbor/data/full dataset/train/images/image100.png,1086,408,1434,809,tipping body
+/home/carbor/data/full dataset/train/images/image91.png,933,320,1457,960,tipping body
+/home/carbor/data/full dataset/train/images/image91.png,889,859,1097,988,wheel
+/home/carbor/data/full dataset/train/images/image91.png,1109,873,1313,1010,wheel
+/home/carbor/data/full dataset/train/images/image91.png,486,806,637,980,wheel
+/home/carbor/data/full dataset/train/images/image91.png,538,636,723,809,cab
+/home/carbor/data/full dataset/train/images/image84.png,497,703,584,798,wheel
+/home/carbor/data/full dataset/train/images/image84.png,579,709,678,811,wheel
+/home/carbor/data/full dataset/train/images/image84.png,812,724,921,829,wheel
+/home/carbor/data/full dataset/train/images/image84.png,832,615,953,706,cab
+/home/carbor/data/full dataset/train/images/image84.png,467,611,818,703,tipping body
+/home/carbor/data/full dataset/train/images/image69.png,236,596,466,833,cab
+/home/carbor/data/full dataset/train/images/image69.png,176,831,383,1070,wheel
+/home/carbor/data/full dataset/train/images/image69.png,714,894,982,1080,wheel
+/home/carbor/data/full dataset/train/images/image69.png,1003,890,1267,1080,wheel
+/home/carbor/data/full dataset/train/images/image69.png,458,586,1386,880,tipping body
+/home/carbor/data/full dataset/train/images/image134.png,353,670,1533,964,tipping body
+/home/carbor/data/full dataset/train/images/image134.png,41,889,251,1080,wheel
+/home/carbor/data/full dataset/train/images/image134.png,109,606,348,858,cab
+/home/carbor/data/full dataset/train/images/image232.png,1068,564,1309,639,tipping body
+/home/carbor/data/full dataset/train/images/image232.png,1221,634,1286,699,wheel
+/home/carbor/data/full dataset/train/images/image232.png,1157,639,1221,701,wheel
+/home/carbor/data/full dataset/train/images/image232.png,1040,642,1093,709,wheel
+/home/carbor/data/full dataset/train/images/image232.png,973,563,1063,635,cab
+/home/carbor/data/full dataset/train/images/image110.png,539,631,623,730,wheel
+/home/carbor/data/full dataset/train/images/image110.png,702,659,793,764,wheel
+/home/carbor/data/full dataset/train/images/image110.png,793,670,891,786,wheel
+/home/carbor/data/full dataset/train/images/image110.png,903,649,973,745,wheel
+/home/carbor/data/full dataset/train/images/image110.png,643,545,1007,655,tipping body
+/home/carbor/data/full dataset/train/images/image110.png,573,545,651,625,cab
+/home/carbor/data/full dataset/train/images/image269.png,744,694,941,865,wheel
+/home/carbor/data/full dataset/train/images/image269.png,294,664,459,841,wheel
+/home/carbor/data/full dataset/train/images/image269.png,164,658,308,821,wheel
+/home/carbor/data/full dataset/train/images/image269.png,734,475,951,664,cab
+/home/carbor/data/full dataset/train/images/image269.png,113,465,696,660,tipping body
+/home/carbor/data/full dataset/train/images/image61.png,622,555,769,664,cab
+/home/carbor/data/full dataset/train/images/image61.png,617,695,753,834,wheel
+/home/carbor/data/full dataset/train/images/image61.png,959,696,1093,834,wheel
+/home/carbor/data/full dataset/train/images/image61.png,1092,691,1231,829,wheel
+/home/carbor/data/full dataset/train/images/image61.png,814,551,1278,683,tipping body
+/home/carbor/data/full dataset/train/images/image318.png,848,757,954,861,wheel
+/home/carbor/data/full dataset/train/images/image318.png,1097,746,1189,831,wheel
+/home/carbor/data/full dataset/train/images/image318.png,1189,755,1281,851,wheel
+/home/carbor/data/full dataset/train/images/image318.png,836,644,942,745,cab
+/home/carbor/data/full dataset/train/images/image318.png,978,643,1321,748,tipping body
+/home/carbor/data/full dataset/train/images/image284.png,492,621,969,770,tipping body
+/home/carbor/data/full dataset/train/images/image284.png,966,613,1268,845,cab
+/home/carbor/data/full dataset/train/images/image262.png,877,450,1067,505,tipping body
+/home/carbor/data/full dataset/train/images/image262.png,896,506,942,552,wheel
+/home/carbor/data/full dataset/train/images/image262.png,941,507,994,555,wheel
+/home/carbor/data/full dataset/train/images/image262.png,1075,509,1131,560,wheel
+/home/carbor/data/full dataset/train/images/image262.png,1073,450,1137,502,cab
+/home/carbor/data/full dataset/train/images/image290.png,1346,644,1413,710,wheel
+/home/carbor/data/full dataset/train/images/image290.png,1174,649,1247,721,wheel
+/home/carbor/data/full dataset/train/images/image290.png,1103,652,1172,723,wheel
+/home/carbor/data/full dataset/train/images/image290.png,1065,573,1313,646,tipping body
+/home/carbor/data/full dataset/train/images/image290.png,1329,570,1413,636,cab
+/home/carbor/data/full dataset/train/images/image149.png,1396,640,1920,940,tipping body
+/home/carbor/data/full dataset/train/images/image149.png,1736,930,1919,1080,wheel
+/home/carbor/data/full dataset/train/images/image22.png,681,221,1242,890,tipping body
+/home/carbor/data/full dataset/train/images/image22.png,822,808,1034,908,wheel
+/home/carbor/data/full dataset/train/images/image22.png,1047,804,1261,906,wheel
+/home/carbor/data/full dataset/train/images/image22.png,1581,765,1712,955,wheel
+/home/carbor/data/full dataset/train/images/image22.png,1462,570,1647,759,cab
+/home/carbor/data/full dataset/train/images/image217.png,879,729,974,829,wheel
+/home/carbor/data/full dataset/train/images/image217.png,683,721,762,808,wheel
+/home/carbor/data/full dataset/train/images/image217.png,618,719,693,809,wheel
+/home/carbor/data/full dataset/train/images/image217.png,888,631,1001,715,cab
+/home/carbor/data/full dataset/train/images/image217.png,600,632,888,722,tipping body
+/home/carbor/data/full dataset/train/images/image315.png,464,564,669,753,cab
+/home/carbor/data/full dataset/train/images/image315.png,434,800,601,981,wheel
+/home/carbor/data/full dataset/train/images/image315.png,671,548,1497,801,tipping body
+/home/carbor/data/full dataset/train/images/image309.png,840,397,1060,463,tipping body
+/home/carbor/data/full dataset/train/images/image309.png,972,478,1031,538,wheel
+/home/carbor/data/full dataset/train/images/image309.png,904,466,967,526,wheel
+/home/carbor/data/full dataset/train/images/image309.png,748,471,810,530,wheel
+/home/carbor/data/full dataset/train/images/image309.png,749,397,824,460,cab
+/home/carbor/data/full dataset/train/images/image38.png,518,688,661,834,wheel
+/home/carbor/data/full dataset/train/images/image38.png,862,705,1002,846,wheel
+/home/carbor/data/full dataset/train/images/image38.png,998,704,1149,850,wheel
+/home/carbor/data/full dataset/train/images/image38.png,537,561,684,680,cab
+/home/carbor/data/full dataset/train/images/image38.png,719,555,1206,700,tipping body
+/home/carbor/data/full dataset/train/images/image16.png,494,171,1167,975,tipping body
+/home/carbor/data/full dataset/train/images/image16.png,671,870,934,1080,wheel
+/home/carbor/data/full dataset/train/images/image16.png,936,863,1204,1080,wheel
+/home/carbor/data/full dataset/train/images/image16.png,1541,793,1687,1011,wheel
+/home/carbor/data/full dataset/train/images/image16.png,1421,575,1607,788,cab
+/home/carbor/data/full dataset/train/images/image207.png,798,229,881,295,cab
+/home/carbor/data/full dataset/train/images/image207.png,802,305,877,374,wheel
+/home/carbor/data/full dataset/train/images/image207.png,982,301,1059,376,wheel
+/home/carbor/data/full dataset/train/images/image207.png,1057,304,1134,378,wheel
+/home/carbor/data/full dataset/train/images/image207.png,906,230,1164,301,tipping body
+/home/carbor/data/full dataset/train/images/image143.png,1003,601,1289,889,cab
+/home/carbor/data/full dataset/train/images/image143.png,1087,961,1347,1080,wheel
+/home/carbor/data/full dataset/train/images/image143.png,1683,873,1896,1080,wheel
+/home/carbor/data/full dataset/train/images/image143.png,1341,599,1920,866,tipping body
+/home/carbor/data/full dataset/train/images/image41.png,522,698,666,835,wheel
+/home/carbor/data/full dataset/train/images/image41.png,862,706,1003,845,wheel
+/home/carbor/data/full dataset/train/images/image41.png,1008,704,1148,846,wheel
+/home/carbor/data/full dataset/train/images/image41.png,537,555,686,681,cab
+/home/carbor/data/full dataset/train/images/image41.png,717,553,1204,695,tipping body
+/home/carbor/data/full dataset/train/images/image3.png,1,389,256,742,cab
+/home/carbor/data/full dataset/train/images/image3.png,121,684,224,803,wheel
+/home/carbor/data/full dataset/train/images/image3.png,211,668,293,776,wheel
+/home/carbor/data/full dataset/train/images/image3.png,347,635,397,719,wheel
+/home/carbor/data/full dataset/train/images/image3.png,273,548,346,625,cab
+/home/carbor/data/full dataset/train/images/image70.png,204,596,444,840,cab
+/home/carbor/data/full dataset/train/images/image70.png,134,849,369,1080,wheel
+/home/carbor/data/full dataset/train/images/image70.png,697,919,988,1080,wheel
+/home/carbor/data/full dataset/train/images/image70.png,998,921,1301,1080,wheel
+/home/carbor/data/full dataset/train/images/image70.png,417,590,1432,906,tipping body
+/home/carbor/data/full dataset/train/images/image31.png,809,587,1305,801,tipping body
+/home/carbor/data/full dataset/train/images/image31.png,758,698,825,813,wheel
+/home/carbor/data/full dataset/train/images/image31.png,842,763,945,863,wheel
+/home/carbor/data/full dataset/train/images/image31.png,940,801,1055,865,wheel
+/home/carbor/data/full dataset/train/images/image31.png,1166,774,1278,898,wheel
+/home/carbor/data/full dataset/train/images/image218.png,1237,608,1379,731,cab
+/home/carbor/data/full dataset/train/images/image218.png,1209,753,1342,889,wheel
+/home/carbor/data/full dataset/train/images/image218.png,950,709,1046,821,wheel
+/home/carbor/data/full dataset/train/images/image218.png,864,699,954,807,wheel
+/home/carbor/data/full dataset/train/images/image218.png,846,604,1229,704,tipping body
+/home/carbor/data/full dataset/train/images/image66.png,581,668,704,794,wheel
+/home/carbor/data/full dataset/train/images/image66.png,882,681,1008,809,wheel
+/home/carbor/data/full dataset/train/images/image66.png,1008,683,1136,808,wheel
+/home/carbor/data/full dataset/train/images/image66.png,752,546,1187,676,tipping body
+/home/carbor/data/full dataset/train/images/image66.png,597,548,732,654,cab
+/home/carbor/data/full dataset/train/images/image27.png,1004,220,1238,448,tipping body
+/home/carbor/data/full dataset/train/images/image27.png,1569,760,1706,959,wheel
+/home/carbor/data/full dataset/train/images/image27.png,1494,569,1643,750,cab
+/home/carbor/data/full dataset/train/images/image88.png,564,660,852,895,cab
+/home/carbor/data/full dataset/train/images/image88.png,479,940,709,1080,wheel
+/home/carbor/data/full dataset/train/images/image88.png,106,855,271,1071,wheel
+/home/carbor/data/full dataset/train/images/image88.png,1,824,119,1017,wheel
+/home/carbor/data/full dataset/train/images/image88.png,1,651,581,891,tipping body
+/home/carbor/data/full dataset/train/images/image264.png,1119,496,1179,554,wheel
+/home/carbor/data/full dataset/train/images/image264.png,963,489,1025,547,wheel
+/home/carbor/data/full dataset/train/images/image264.png,912,493,965,547,wheel
+/home/carbor/data/full dataset/train/images/image264.png,891,428,1105,489,tipping body
+/home/carbor/data/full dataset/train/images/image264.png,1119,428,1189,487,cab
+/home/carbor/data/full dataset/train/images/image282.png,974,614,1269,883,cab
+/home/carbor/data/full dataset/train/images/image282.png,883,926,1107,1078,wheel
+/home/carbor/data/full dataset/train/images/image282.png,576,789,704,958,wheel
+/home/carbor/data/full dataset/train/images/image282.png,509,768,598,918,wheel
+/home/carbor/data/full dataset/train/images/image282.png,492,618,969,784,tipping body
+/home/carbor/data/full dataset/train/images/image263.png,1076,526,1132,578,wheel
+/home/carbor/data/full dataset/train/images/image263.png,946,522,996,572,wheel
+/home/carbor/data/full dataset/train/images/image263.png,898,522,945,571,wheel
+/home/carbor/data/full dataset/train/images/image263.png,1080,468,1139,519,cab
+/home/carbor/data/full dataset/train/images/image263.png,880,466,1070,521,tipping body
+/home/carbor/data/full dataset/train/images/image150.png,1739,924,1920,1079,wheel
+/home/carbor/data/full dataset/train/images/image150.png,1431,644,1920,942,tipping body
+/home/carbor/data/full dataset/train/images/image281.png,497,614,982,773,tipping body
+/home/carbor/data/full dataset/train/images/image281.png,516,766,609,911,wheel
+/home/carbor/data/full dataset/train/images/image281.png,586,789,718,960,wheel
+/home/carbor/data/full dataset/train/images/image281.png,896,935,1112,1080,wheel
+/home/carbor/data/full dataset/train/images/image281.png,986,616,1273,874,cab
+/home/carbor/data/full dataset/train/images/image119.png,763,535,852,608,cab
+/home/carbor/data/full dataset/train/images/image119.png,766,616,848,696,wheel
+/home/carbor/data/full dataset/train/images/image119.png,962,624,1037,701,wheel
+/home/carbor/data/full dataset/train/images/image119.png,1041,623,1123,705,wheel
+/home/carbor/data/full dataset/train/images/image119.png,877,538,1153,625,tipping body
+/home/carbor/data/full dataset/train/images/image277.png,1142,674,1208,744,wheel
+/home/carbor/data/full dataset/train/images/image277.png,1024,663,1080,727,wheel
+/home/carbor/data/full dataset/train/images/image277.png,985,662,1027,730,wheel
+/home/carbor/data/full dataset/train/images/image277.png,1161,586,1250,665,cab
+/home/carbor/data/full dataset/train/images/image277.png,973,594,1159,662,tipping body
+/home/carbor/data/full dataset/train/images/image314.png,926,730,1084,831,wheel
+/home/carbor/data/full dataset/train/images/image314.png,1094,753,1254,831,wheel
+/home/carbor/data/full dataset/train/images/image314.png,562,738,697,875,wheel
+/home/carbor/data/full dataset/train/images/image314.png,573,553,727,713,cab
+/home/carbor/data/full dataset/train/images/image314.png,757,549,1328,723,tipping body
+/home/carbor/data/full dataset/train/images/image128.png,168,847,396,1069,wheel
+/home/carbor/data/full dataset/train/images/image128.png,239,589,484,809,cab
+/home/carbor/data/full dataset/train/images/image126.png,233,586,476,814,cab
+/home/carbor/data/full dataset/train/images/image126.png,188,835,416,1073,wheel
+/home/carbor/data/full dataset/train/images/image126.png,461,588,1424,865,tipping body
+/home/carbor/data/full dataset/train/images/image275.png,1102,648,1144,692,wheel
+/home/carbor/data/full dataset/train/images/image275.png,1023,640,1063,684,wheel
+/home/carbor/data/full dataset/train/images/image275.png,995,640,1026,682,wheel
+/home/carbor/data/full dataset/train/images/image275.png,1110,596,1177,638,cab
+/home/carbor/data/full dataset/train/images/image275.png,985,596,1111,637,tipping body
+/home/carbor/data/full dataset/train/images/image36.png,553,603,1179,888,tipping body
+/home/carbor/data/full dataset/train/images/image36.png,626,846,754,1026,wheel
+/home/carbor/data/full dataset/train/images/image36.png,892,879,1076,1080,wheel
+/home/carbor/data/full dataset/train/images/image36.png,1021,816,1149,1019,wheel
+/home/carbor/data/full dataset/train/images/image36.png,1174,720,1256,879,wheel
+/home/carbor/data/full dataset/train/images/image112.png,534,558,631,658,cab
+/home/carbor/data/full dataset/train/images/image112.png,493,680,598,810,wheel
+/home/carbor/data/full dataset/train/images/image112.png,681,726,807,883,wheel
+/home/carbor/data/full dataset/train/images/image112.png,793,751,953,901,wheel
+/home/carbor/data/full dataset/train/images/image112.png,967,719,1072,850,wheel
+/home/carbor/data/full dataset/train/images/image112.png,606,566,1119,734,tipping body
+/home/carbor/data/full dataset/train/images/image241.png,1218,818,1407,1019,wheel
+/home/carbor/data/full dataset/train/images/image241.png,459,966,695,1080,wheel
+/home/carbor/data/full dataset/train/images/image241.png,292,599,581,915,cab
+/home/carbor/data/full dataset/train/images/image95.png,764,609,891,701,cab
+/home/carbor/data/full dataset/train/images/image95.png,742,713,848,818,wheel
+/home/carbor/data/full dataset/train/images/image95.png,999,733,1114,851,wheel
+/home/carbor/data/full dataset/train/images/image95.png,1117,738,1231,855,wheel
+/home/carbor/data/full dataset/train/images/image95.png,1021,429,1306,786,tipping body
+/home/carbor/data/full dataset/train/images/image141.png,1034,863,1291,1080,wheel
+/home/carbor/data/full dataset/train/images/image141.png,1574,816,1763,1044,wheel
+/home/carbor/data/full dataset/train/images/image141.png,1752,803,1920,1009,wheel
+/home/carbor/data/full dataset/train/images/image141.png,994,586,1229,821,cab
+/home/carbor/data/full dataset/train/images/image141.png,1292,585,1920,792,tipping body
+/home/carbor/data/full dataset/train/images/image330.png,572,681,847,910,cab
+/home/carbor/data/full dataset/train/images/image330.png,897,680,1602,855,tipping body
+/home/carbor/data/full dataset/train/images/image330.png,1433,865,1564,1060,wheel
+/home/carbor/data/full dataset/train/images/image278.png,1173,702,1267,804,wheel
+/home/carbor/data/full dataset/train/images/image278.png,1024,678,1093,763,wheel
+/home/carbor/data/full dataset/train/images/image278.png,973,674,1029,756,wheel
+/home/carbor/data/full dataset/train/images/image278.png,1204,590,1324,689,cab
+/home/carbor/data/full dataset/train/images/image278.png,957,595,1204,675,tipping body
