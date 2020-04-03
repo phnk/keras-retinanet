@@ -17,17 +17,12 @@ import numpy as np
 import time
 import tensorflow as tf
 
-
-
 # Running directly from the repository:
 # keras_retinanet/bin/convert_model.py /path/to/training/model.h5 /path/to/save/inference/model.h5
 if __name__ == "__main__":
     BACKBONE_NAME = "resnet50"
-    THRESHOLD = 0.45
+    THRESHOLD = 0.55
     TEST_VIDEO = glob.glob("/home/carbor/data/raw test videos/*.*")
-    #TEST_VIDEO = ["/home/carbor/code/keras-retinanet/data/test/indoor_test_1.MP4", "/home/carbor/code/keras-retinanet/data/test/indoor_test_2.MP4", "/home/carbor/code/keras-retinanet/data/test/volvo_test.avi"]
-    #TEST_VIDEO = ["/home/carbor/code/keras-retinanet/data/test/indoor_test_1.MP4"]
-
 
     gpu = 0
     setup_gpu(gpu)
@@ -54,7 +49,10 @@ if __name__ == "__main__":
             print("Error cant open file {}".format(video))
 
 
-        tt = 0
+        tt = []
+
+        WIDTH = 1333
+        HEIGHT = 800
 
         while (cap.isOpened()):
             ret, frame = cap.read()
@@ -63,12 +61,12 @@ if __name__ == "__main__":
                 draw = frame.copy()
                 
                 image = preprocess_image(frame)
-                image, scale = resize_image(image, min_side=800, max_side=800)
+                image, scale = resize_image(image, min_side=HEIGHT, max_side=WIDTH)
 
                 start = time.time()
                 boxes, scores, labels = model.predict_on_batch(np.expand_dims(image, axis=0))
                 print("processing time: {}".format(time.time() - start))
-                tt += time.time() - start
+                tt.append(time.time() - start)
                 boxes /= scale
 
                 for box, score, label in zip(boxes[0], scores[0], labels[0]):
@@ -91,9 +89,10 @@ if __name__ == "__main__":
 
         print("amount of frames {}".format(len(imgs)))
 
-        print("mean inference time {}".format(tt / len(imgs)))
+        print("mean inference time {}".format(np.mean(tt)))
+        print("std: {}".format(np.std(tt)))
+        print("variance: {}".format(np.var(tt)))
         
-        exit(1)
         for im in imgs:
             res = cv2.resize(im, out_size)
             out.write(res)
