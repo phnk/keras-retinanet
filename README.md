@@ -1,3 +1,9 @@
+# Note
+This repo was used to test a hypothosis and write a subsequential paper. The paper can be found at SoonTM. **Full credit to Fizyr for the implementation of YOLOv3. Their repo can be found at https://github.com/fizyr/keras-retinanet.
+
+The original README can be found below:
+======
+
 # Keras RetinaNet [![Build Status](https://travis-ci.org/fizyr/keras-retinanet.svg?branch=master)](https://travis-ci.org/fizyr/keras-retinanet) [![DOI](https://zenodo.org/badge/100249425.svg)](https://zenodo.org/badge/latestdoi/100249425)
 
 Keras implementation of RetinaNet object detection as described in [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
